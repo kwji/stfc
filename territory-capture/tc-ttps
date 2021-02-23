@@ -1,0 +1,37 @@
+**Tactics, Techniques, and Proceedures (TTPs)**
+
+---
+
+**Realta Spam / Swarming**
+**Purpose:**
+Continuously tie-up and delay powerful enemy ships until stronger allied ships (*hunters*) arrive to destroy them.
+**Concept:** 
+Multiple players use their smallest, cheapest-to-repair ships (*spammers*) to repeatedly attack the same target in rapid sequence until a hunter arrives. This continuously keeps the target in combat preventing them from escaping or attacking others and buys time for allied hunters to arrive and destroy the target. Using cheapest-to-repair ships minimizes players' repair costs in terms of RSS and speed-ups.
+**Details:** 
+- Spammers *MUST* watch closely for the approach/arrival of allied hunters and *stop attacking the target* once a hunter is in striking range of the target. If a hunter will arrive at the target before or immediately after the on-going combat ends, then it is time to stop spamming and instead allow the hunter to kill the target. Do not force the hunter to sit and wait longer than necessary.
+- Only use your *cheapest-to-repair* ships for spamming!!! By design, these ships will be destroyed and need to be repaired over and over again and using your cheapest ships will minimize your RSS/speed-up expenses.
+- Speed builds are highly useful as high impulse speed allows spammers to more quickly and easily intercept targets.
+- The `Realta` is an ideal ship for this as it requires no speed-ups and minimal RSS to repair in addition to having an extremely high base impulse of 150.
+- Speed crews include (captain with bridge officers):
+    a) `Klaa` with  `Komal`/`Kras`/`Vixis` 
+    b) `Burnham` with `Airiam`/`Georgiou`/`Saru`/`Ash Tyler`/`Paul Stamets`/`Tilly`
+    c)  `Pan` with `Joaquin`/`Khan`/`Rima`/`Joachim`/`Kati`/`Navi`
+    
+    **Timed Knock-Off**
+**Purpose:** 
+Prevent powerful enemy ships that are mounted on capture nodes and cannot be promptly destroyed from earning the extra 3 points for being mounted when points are counted.
+**Concept:**
+Time your attacks against these mounted targets to occur at approximately 2-3 seconds before the minute, every minute, timed against the takeover clock displayed in the top right corner of the screen. Ensure the target is still in combat when the minute rolls over on the takeover clock.
+**Details:**
+- Points are only counted once per minute and they are counted *on the minute*
+- Ships in combat are not counted as being mounted on a capture-node
+- For example, initiating combat with a mounted target at `15:02` ensures they are still in combat at `15:00` so they are not counted as being mounted on a capture node and only earn 1 point instead of 4 points.
+
+**Kiting**
+**Purpose:** 
+Earn as many points as possible with our ships when they are unable to destroy the enemy.
+**Concept:**
+Continuously run weaker ships away from any pursuing enemies in order to keep those ships alive and earning points (1pt/min) for as long as possible while simultaneously occupying the more powerful pursuing enemy ships so they aren't destroying other ships.
+**Details:**
+- Fast, cheap ships are useful for this purpose. See `Realta Spam / Swarming`.
+- Even hunters who are confronted by enemy ships they cannot destroy should consider when it is appropriate to kite rather than engage.
