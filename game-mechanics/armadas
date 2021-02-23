@@ -1,0 +1,32 @@
+WIP: How are ships selected, power requirements, reward distribution, display bug, what armadas are good for you
+
+**Basic Mechanics**
+- The `Armada Control Center` (ACC) building must be constructed before you can run armadas. A higher level ACC allows you run armadas with larger fleets and provides a greater damage bonus against armadas.
+- Directives
+- Automatic ship selection, Stars, Display bug
+- Rewards distribution
+- Alliance Store
+
+** Successful Armadas**
+- `~40%` Power threshold
+- Considerations for leaders
+- Considerations for participants
+~~Stop hogging armada slots and share you dickheads....~~
+
+**Overview**
+Armada strength and difficulty depend on the Armada's level and quality (Uncommon, Rare, Epic):
+
+Victory depends on several factors:
+- Crew loadouts
+- Raw fleet strength
+- `Armada Control Center` (ACC) level
+
+Ships are selected to participate based on power by default:
+- Only a single ship per player may participate in a single armada
+- More powerful ships are selected over less powerful ships
+- There is a display error where the Armada dialogue box displays incorrectly low ship power values. This does not impact any mechanics, it is purely a display error.  
+- Armada leaders can override the default ship selection by staring the ships they wish to participate
+
+Rewards are distributed to participants according to their power contribution:
+- Participants receive a percentage of the rewards based on the percentage of the total fleet power their ship contributed. 
+- Ex: Someone with a 1M power ship in a 5M power fleet will receive 1/5 of the rewards, while someone with a 2M power ship in a 5M power fleet will receive 2/5 of the rewards.
