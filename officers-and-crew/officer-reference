@@ -1,0 +1,19 @@
+**Officer Reference**
+Listing of officers who's captain maneuvers and/or bridge officer abilities are *not broken*, but are still deserving of additional commentary
+
+---
+
+**Kuron**
+**Captain Maneuver: `No Negotiations`**
+See: https://discord.com/channels/697529039644131359/697529041980489869/795132043884757014
+See: https://www.reddit.com/r/startrekfleetcommand/comments/krfcl7/kuron_firing_patterns/
+~~Assuming the ability triggers, then *all kinetic weapons* will fire in round 2 regardless of their firing pattern, and their firing patterns will then proceed based on their recharge times counting from round 2.
+For example, consider the Saladin's kinetic weapon with a 3 round recharge:
+- Nominally, firing occurs in rounds 1, 4, 7, 10, ...
+- With Kuron, firing firing occurs in rounds: 1, 2, 5, 8, 11, ...~~
+
+**Pike**
+**Captain Maneuver:**   `Teaching Moments`
+The `20%` bonus to officer abilities only applies to combat abilities. 
+Non-combat abilities, such as bonus cargo capacity, are displayed as though the `20%` bonus is applied but this is a display error.
+The `20%` bonus is not applied the same way to all combat abilities. The bonus is additive for some officer abilities and multiplicative for others. For example: `Harrison`'s base `60%` shield ignore is increased to `80%`, however `Decius`'s base `7%` damage bonus is increased to `8.4%`.
