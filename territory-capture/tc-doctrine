@@ -1,0 +1,33 @@
+**Territory Capture Doctrine**
+OBS's principles for conducting and supporting takeovers.
+For details regarding specific TTPs see: #tc-ttps 
+
+--
+
+**Discord Voice**
+1. Members should join Discord Voice during Takeovers whenever possible to maximize our ability to coordinate.
+2. Restrict communication to target call-outs indicating system, bearing, level, and ship type if a Sarc or Disco. Ex: "Alpha, 6 o'clock, lvl 36 Sarc"
+
+**Roles**
+1. *Hunters:* Powerful ships used to actively hunt and destroy enemy targets in the takeover zone. If you have a Saladin tier ship or better that can destroy most targets we expect to encounter, then bring those ships to the takeover and use them to hunt the enemy.
+2. *Spammers:* Cheapest-to-repair ships used to either tie-up or kite away from larger more powerful enemy ships. If you do not have ships that can destroy most targets we expect to encounter, or you need to conserve RSS/speed-ups, bring your cheapest-to-repair ships (ex: `Realta`) to the takeover.
+
+**Target Prioritization**
+1. Ships from opposing alliances that have formally *joined* the takeover should be killed first. If a ship has a white capture symbol, then it should be destroyed before ships without capture symbols.
+2. `Sarcophagus` ships (Sarc's/Sarco's) and `Discovery` ships (Disco's) are high priority targets. Kill Sarc's *before* they manage to mount capture nodes when they are weak. Kill Disco's so they can't summon reinforcements.
+3. Ships on capture nodes earn 4 pts/min and should be targeted before floaters which earn 1 pt/min.
+4. Floaters are the lowest priority targets.
+
+**Deployment - OBS Defense**
+- Setup in the takeover zone at least 15 minutes early.
+- Deploy the majority of ships to Beta and Gamma systems which each have twice as many capture nodes as Alpha systems.
+- Occupy/mount capture nodes using Sarcs followed by other battleships. Sarcs are the priority. If any capture nodes remain unfilled then spammers should occupy the remaining nodes.
+- Deploy Hunters at system entry points to intercept attackers as they zone in.
+- Spammers should employ kiting rather than swarming during OBS takeover defenses.
+
+**Deployment - OBS Attack**
+- Officers will announce the staging system, staging time, and coordinated jump time to all members before-hand. Staging and Coordinated jump times are typically at least 15 minutes and 5 minutes prior to the takeover respectively.
+- Assemble ships in the designated staging system at the specified time and coordinated jump into the takeover zone's Beta and Gamma systems when signaled by officers at the coordinated jump time.
+- Clear the takeover systems of enemy ships according to standard targeting priority as quickly as possible. The goal is to establish sufficient system control to deploy ships in a similar manner as in OBS Takeover Defenses.
+- Once the Beta and Gamma systems are either under OBS control or are subject to a comfortable stalemate, officers will begin redirecting some forces to the Alpha system.
+- During the clearing window before the takeover timer begins, spammers may need to employ both kiting and swarming as appropriate to help hunters destroy enemy ships as efficiently as possible. However, once the takeover begins spammers should stop swarming and instead focus on kiting.
