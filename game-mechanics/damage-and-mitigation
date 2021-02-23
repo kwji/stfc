@@ -1,0 +1,31 @@
+WIP: damage, mitigation, shield vs hull distribution, diminishing returns
+
+**Overview**
+Damage in STFC can be broken down as follows:
+1. Damage Dealt 
+2. Damage Mitigated 
+3. Damage Received
+3a. Shield Damage Reveived
+3b. Hull Damage Received
+
+**Damage Dealt**
+-  `Damage Dealt`: Base Damage * Damage Modifiers
+- Base Damage: [Min Weapon Damage, Max Weapon Damage] No officers assigned
+- Damage Modifiers: buildings, research, officer attack bonus
+
+**Damage Mitigated**
+See the mitigation calculator for details and to test things out: https://stfc-toolbox.now.sh/mitigation
+*Damage Mitigated:* *Damage Dealt* * *Mitigation*
+*Mitigation* is a function of the defending ship's mitigation stats (`Shield Deflection`, `Armor`, `Evasion`) and the attacking ship's piercing stats (`Shield Piercing`, `Armor Piercing`, `Accuracy`) and is subject to diminishing returns, capping out at `~72%`.
+Each ship class has a primary mitigation stat that is weighted more heavily than the others when computing damage mitigation:
+- Explorers: `Shield Deflection`
+- Battleships: `Armor`
+- Interceptors: `Evasion`
+For example: All things being equal, a single point of additional `Shield Deflection` will result in a larger *Damage Mitigation* value for an explorer than for an interceptor or battleship.
+
+**Damage Received**
+Damage Received: Damage Dealt - Damage Mitigated
+Shield Damage Received: `80%` of Damage Received
+Hull Damage Received: `20%` of Damage Received 
+If there is insufficient shield health remaining, the excess damage is applied to the hull health instead.
+Officers like `Harrison`, `TOS Uhura`, and `Harry Mudd` function by altering the `80%`/`20%` damage received distribution.
