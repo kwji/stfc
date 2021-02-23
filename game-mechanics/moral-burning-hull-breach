@@ -1,0 +1,62 @@
+**Overview**
+
+`Morale`, `Burning`, and `Hull Breach` are ship statuses that are applied to a ship, either your own or the opponent's, by certain officer abilities and captain maneuvers.
+
+When a ship status is active it can trigger both *active effects* and a *background effect*.
+
+Each ship status has a unique *background effect*, while *active effects* are applied by officer abilities, captain maneuvers, or ship abilities.
+
+Ship statuses must be active to trigger any related *active effects* and enable their *background effects*.
+
+**Background Effects**
+
+`Morale` - Improves the ship's piercing stats by *approximately* `80%` (armor piercing, shield deflection, accuracy).
+
+`Burning` - Decreases the ship's hull health by `1%` at the end of each round, unless the attacker is destroyed before the end of the round.
+
+`Hull Breach` - Increases the ship's critical damage stat by *approximately* `80%`. (Ex: If your ship has a critical damage stat of `150%`, then it will increase to `220%-230%`).
+
+**Active Effects**
+
+Each ship status can trigger active effects depending on the equipped bridge crew. Three examples are provided below.
+
+- `Koth`'s officer ability *Open Them Up* - `+%` to Kinetic damage while the opponent has a Hull Breach
+- `Kirk`'s captain maneuver *Leader* - `+40%` to all Officer stats when the ship has Morale
+- `Nero`'s captain maneuver *Joy In Vengeance* - `+40%` to Damage when the enemy ship is Burning
+
+Remember, active effects only function while the required ship status is active.
+
+**Activation**
+
+Many different officers can activate ship statuses. Three examples are provided below.
+
+- `Gorkon`'s officer ability *Creating Opportunities* - % chance to cause a `Hull Breach` to the enemy for 3 Rounds when hitting with a Critical Hit
+- `Kirk`'s officer ability *It's all we have to go on* - % chance to give `Morale` at the start of each round
+- `Nero`'s officer ability *See the Flaws* - % chance to cause `Burning` to the enemy for 2 Rounds when hitting it
+
+**Examples**
+
+Consider `Gorkon` as captain on a `Bortas` which has 3 weapons firing on Round 1.
+
+- Suppose you score a critical hit with your first weapon hit in Round 1.
+- Suppose `Gorkon`'s officer ability procs with the critical hit, applying a `Hull Breach` to the enemy for 3 rounds.
+- Immediately after your first weapon hit, `Hull Breach` is now considered active on the enemy ship.
+- Your first weapon hit, which was a critical hit, and activated `Hull Breach` on the enemy ship, does *not* benefit from `Hull Breach`'s background `+80%` critical damage effect because `Hull Breach` was not already active at the time of your first weapon hit.
+- Suppose your second weapon hit in Round 1 is also a critical hit. This second critical hit *does* benefit from `Hull Breach`'s background effect.
+
+Consider `Nero` as captain on a `Vahklas` which has 3 weapons firing each round. 
+
+- Suppose that in Round 1, your first two weapon hits fail to proc `Nero`'s officer ability.
+- Suppose your third weapon hit in Round 1 does trigger  `Nero`'s officer ability, activating `Burning` on the enemy for 2 rounds.
+- Immediately after your third weapon hit in Round 1, `Burning` is now considered active, triggering `Nero`'s captain maneuver.
+- Round 1 ends and is counted as the first of the enemy's 2 rounds of `burning`.
+- Round 2 starts and `Nero`'s captain maneuver is active.
+- Suppose none of your three weapon hits this round procs `Nero`'s officer ability
+- All three of your weapon hits this round will benefit from `Nero`'s captain maneuver damage bonus.
+- Round 2 ends and is counted as the second of the enemy's 2 rounds of `Burning` and the `Burning` status is deactivated.
+
+Consider `Kirk` as captain.
+
+- Suppose `Kirk`'s officer ability procs at the start of Round 1, activating `Morale` for 2 rounds.
+- `Morale` is now considered active at the start of Round 1.
+- `Kirk`'s captain maneuver now procs, increasing all officer stats by `40%`.
