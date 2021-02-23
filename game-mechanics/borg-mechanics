@@ -1,0 +1,16 @@
+WIP: Borg game-loop (vidar, borg refinery), list the lucrative systems with mat mappings
+
+**Overview**
+The Borg Arc content comprises:
+- The `Vidar`: Level 26 ship, very fast (`120` Impulse), large cargo hold, excels against Borg ships.
+- Borg Officers: `1 of 10`, `5 of 10`, `6 of 10`, `7 of 10`, `8 of 10`, `9 of 10`, `10 of 10`
+- Borg Systems: normal, latinum, lucrative
+- `Borg Refinery`: upgrade `Vidar`/Borg Officers, access latinum/lucrative Borg Systems, gain Faction Credits/Rep
+
+**Game Loop**
+- Collect 2x free `Transwarp Cell`'s from *Gifts* tab daily
+- Visit `Transwarp Cell`-gated Borg systems in your `Vidar` to farm `Inert Nanoprobes` by killing `Borg Tacticle Probe` hostiles and `Latinum Antique`'s bykilling rare `Assimilated Ferengi Trader` hostiles
+- Refine `Inert Nanoprobes` into `Active Nanoprobes` or `Charged Nanoprobes` in the `Borg Refinery`
+- Use `Active Nanonprobes` to promote Borg Officers
+- Use `Charged Nanoprobes` to upgrade your `Vidar` or purchase Faction Credit and Faction Reputation bundles in the `Borg Refinery`
+- Refine `Latinum Antique`'s in the `Borg Refinery` to receive: Resource Tokens, Ship XP, `Transwarp Cells` `Lucrative Transwarp Cell`'s, `Uncommon Latinum Transwarp Cell`'s, `Rare Latinum Transwarp Cell`'s, `Epic Latinum Transwarp Cell`'s
