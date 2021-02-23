@@ -1,0 +1,104 @@
+**Territory Capture Reference Information**
+Basic information about Territory Capture mechanics and the activities members need to do in order to contribute to OBS as a whole.
+
+---
+
+```yml
+TLDR Help OBS:
+  - Territory Capture Materials:
+    - Mine G1/G2/G3 Raw Isogen from G1/G2/G3 Raw Isogen nodes
+    - Refine G2/G3 Raw Isogen into Progenitor Alloys (Territory Refinery)
+    - Refine Progenitor Alloys into Progenitor Cores, Progenitor Diodes, Progenitor Emitters, and Progenitor Reactors (Territory Refinery)
+    - Ask Council or an officer which Progenitor material is most needed before refining your alloys.
+  - Takeover Points:
+    - (1pt/min) Send your ship to any of a Zone's systems
+    - (4pt/min) Use your ship to occupy a system's Capture Nodes
+    - During the last 1/3 of a takeover all point gains are multiplied by 3
+    - Kill opposing ships to stop them from scoring points.
+```
+
+```yml
+Zones:
+  - What is a Zone: A "Zone" is a group of 2-3 systems that can be owned by an Alliance and provides benefits to the owner's players
+  - Zone Benefits:
+    - Services: 
+      - Provide passive stat buffs (ex: +40% shield health)
+      - Must be activated by expending Territory Capture (TC) Materials
+    - Exclusive Housing: Only owner players can relocate to planets in Zone systems
+    - Exclusive Mining: Only owner players can mine nodes in Zone systems
+  - Zone Tiers: 
+      - T1 < T2 < T3
+      - Higher tier Zones offer more services and more useful mining nodes
+```
+
+```yml
+Takeovers:
+  - What is a Takeover: A "Takeover" is a short time period when a specific Zone can be captured by participating Alliances that compete by scoring points.
+  - Schedule: 
+    - Each Zone can only be captured 1x/week during its regularly scheduled Takeover (same day/time each week). 
+    - Takeovers for different Zones are scheduled at different days and times across the week.
+  - Duration: Takeovers only last either 30m (T1), 45m (T2), or 60m (T3)
+  - Participation:
+    - An Alliance must spend TC Materials (G1/G2/G3 Refined Isogen, Progenitor Cores) to participate in a Zone's Takeover, unless they are the Zone's current owner
+    - If an Alliance does not own any zones, it may only join Takeovers for T1 Zones
+    - If an Alliance already owns at least one Zone, it may only join Takeovers for Zones that are adjacent (connected by a warp path) to a Zone the Alliance already owns
+  - Scoring:
+    - 1 pts/min per ship located a zone system 
+    - 3 pts/min per ship occupying a zone system Capture Node (identical to mining)
+    - Overdrive: during the last 1/3 of a Takeover's duration all point gains are multiplied by 3
+    - Notes:
+        - A single ship occupying a Capture Node will nominally score 4 pts/min (1pt for being in the system, 3 pts for occupying the Capture Node.)
+        - During Overdrive, A single ship occupying a Capture Node will score 12 pts/min (4pts/min x3)
+```
+
+```yml
+Territory Refinery: 
+  - Raw Isogen: 
+      - G1/G2/G3 
+      - Obtained by mining G1/G2/G3 Raw Isogen nodes
+      - Used to refine into other TC Materials (G1/G2/G3 Refined Isogen, Iso-emulsion, Progenitor Alloys)
+  - Refined Isogen: 
+      - G1/G2/G3 
+      - Obtained by refining the corresponding grade of Raw Isogen
+      - Used to join Takeovers for corresponding tier Zones and activate Services
+  - Iso-emulsion:
+      - Used for Territory Research and Territory Store
+  - Progenitor Alloys: 
+      - Obtained by refining G2/G3 Raw Isogen
+      - Used to refine into other "Progenitor" TC Materials (Cores, Diodes, Emitters, Reactors)
+  - Progenitor Cores: 
+      - Obtained by refining Progenitor Alloys
+      - Used to join Takeovers for T2 and T3 Zones
+  - Progenitor Diodes: 
+      - Obtained by refining Progenitor Alloys
+      - Used to activate Services
+  - Progenitor Emitters: 
+      - Obtained by refining Progenitor Alloys
+      - Used to activate Services
+  - Progenitor Reactors: 
+      - Obtained by refining Progenitor Alloys
+      - Used to activate Services
+```
+
+```yml
+Territory Store:
+  - Phantom Particles: 22hr chest costing 5 Iso-Emulsion and containing 100 Phantom Particles 
+  - Surax Particles: 22hr chest costing 5 Iso-Emulsion and containing 100 Surax Particles 
+  - Quantum Particles: 22hr chest costing 5 Iso-Emulsion and containing 100 Quantum Particles 
+  - Metreon Particles: 22hr chest costing 5 Iso-Emulsion and containing 50 Metreon Particles 
+  - RSS: 22 hours chests costing varying amounts of Iso-Emulsion in exchange for Parasteel, Tritanium, and Dilithium
+```
+
+```yml
+Territory Research:
+  - What is Territory Research: Territory research is a new research tree introduced with Territory Capture
+  - Requirements: Unlocks at Ops Level 30
+  - Territory Particles: 
+    - What are Territory Particles: Currencies used to pay for researches in the Territory research tree after the first "tree-segment"
+    - How to obtain: Territory Store 22 hour chests which require the alliance to have an active corresponding Particle Generator service 
+    - Basic Particles: 
+      - Quantum Particles: Used to research nodes in the top branch of the Territory research tree
+      - Phantom Particles: Used to research nodes in the middle branch of the Territory research tree
+      - Surax Particles: Used to research nodes in the bottom branch of the Territory research tree
+    - Metreon Particles: Used to research the final nodes at the end of the Territory research tree
+```
