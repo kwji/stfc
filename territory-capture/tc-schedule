@@ -1,0 +1,32 @@
+**Takeover Defense Schedule**
+The current list of OBS zones and their details is provided *in-game* by visiting the Alliance screen and clicking the Territory button.
+From the Territory screen click on the green flag button next to any zone to get its full details including the exact takeover Day and Time in UTC.
+```
+| Tag  | Zone        | Day | EST   | Dur | Risk |
+|------|-------------|-----|-------|-----|------|
+| OBS  | (T1) Qeyma  | Sun | 12:00 | 30m | Yes  |
+| OBS  | (T2) Crios  | Mon | 15:00 | 45m |      |
+| OBS  | (T1) Adia   | Wed | 12:00 | 30m | Yes  |
+| OBS  | (T2) Avansa | Thr | 14:00 | 45m | Yes  |
+| OBS  | (T3) Corva  | Sat | 17:00 | 60m |      |
+```
+
+**Services Activation Schedule**
+The current list of services that OBS has chosen to activate each week in each of our zones is provided below. 
+The list is subject to change in order to best meet the needs of OBS members.
+Additional services beyond those listed may be activated intermittently on an as-needed basis.
+```
+| Tag  | Zone        | Services                    |
+|------|-------------|-----------------------------|
+| OBS  | (T1) Qeyma  | Armor Enhancer              |
+|      |             | Sarcophagus Material Forges |
+|      |             | Improved G1 Isogen Refinery |
+|      |             | Improved G2 Isogen Refinery |
+|      |             | Surax Particle Generator    |
+| OBS  | (T2) Crios  |                             |
+| OBS  | (T1) Adia   | PvP Combat Enhancer         |
+| OBS  | (T2) Avansa | Officer Attack Enhancer     |
+|      |             | Improved G3 Isogen Refinery |
+|      |             | Advanced Quantum Generator  |
+| OBS  | (T3) Corva  | Shield Enhancer             |
+```
