@@ -1,38 +1,38 @@
-**Overview**
-
+**Overview**  
 Damage in STFC can be broken down as follows:
 1. `Damage Dealt` - Attacker's raw damage output 
 2. `Damage Mitigated` - Portion of the attacker's `Damage Dealt` eliminated by the defender's `Damage Mitigation`.
 3. `Damage Received` - The un-mitigated portion of the attacker's `Damage Dealt`.
-    - `Shield Damage Received` - Portion of `Damage Received` applied to the defender's `Shield HP (SHP)`.
-    - `Hull Damage Received` - Portion of `Damaged Received` applied to the defender's `Hull HP (HHP)`.
+    - `Shield Damage Received` - Portion of `Damage Received` applied to the defender's `Shield Health`.
+    - `Hull Damage Received` - Portion of `Damaged Received` applied to the defender's `Hull Health`.
 
-**Damage Dealt**
-
+**Damage Dealt**  
 `Damage Dealt = Base Damage` * `Damage Multipliers`
-- `Base Damage`: Listed weapon damage with no officers assigned. [Min Weapon Damage, Max Weapon Damage]
-- `Damage Multipliers`: buildings, research, officer attack bonus
+- `Base Damage` - Listed weapon damage with no officers assigned.  Defined by the range `[Min Weapon Damage, Max Weapon Damage]`
+- `Damage Multipliers` - Building bonuses, Research bonuses, Officer attack bonus
 
-**Damage Mitigated**
-
-See the mitigation calculator for details and to test things out: https://stfc-toolbox.now.sh/mitigation
-
+**Damage Mitigated**  
+See the mitigation calculator to test things out: https://stfc-toolbox.now.sh/mitigation
 
 The defender's `Damage Mitigated` is computed as a simple percentage of the attacker's `Damage Dealt` based on the defender's `Damage Mitigation`.
 - `Damage Mitigated = Damage Dealt * Damage Mitigation`
 
-The defender's `Damage Mitigation` value is the percent of an attacker's `Damage Dealt` that is mitigated by the defender (ex: `0.5` or `50%`). 
-- The defender's `Damage Mitigation` is a function of the defender's mitigation stats (`Shield Deflection`, `Armor`, `Evasion`) and the attacker's piercing stats (`Shield Piercing`, `Armor Piercing`, `Accuracy`) and is subject to diminishing returns, capping out at `~72%`.
+The defender's `Damage Mitigation` value is the percent of an attacker's `Damage Dealt` that is mitigated by the defender (ex: `50%`). 
+- `Damage Mitigation` is a function of the defender's mitigation stats (`Shield Deflection`, `Armor`, `Evasion`) and the attacker's piercing stats (`Shield Piercing`, `Armor Piercing`, `Accuracy`) and is subject to diminishing returns, capping out at `~72%`.
 - Each ship class has a primary mitigation stat that is weighted more heavily than the others when computing damage mitigation:
 - Explorers: `Shield Deflection`
 - Battleships: `Armor`
 - Interceptors: `Evasion`
-- For example: All things being equal, a single point of additional `Shield Deflection` will result in a larger *Damage Mitigation* value for an explorer than for an interceptor or battleship.
+- For example: All things being equal, a single point of additional `Shield Deflection` will result in a larger `Damage Mitigation` value for an explorer than for an interceptor or battleship.
 
-**Damage Received**
+**Damage Received**  
+`Damage Received = Damage Dealt - Damage Mitigated`
 
-Damage Received: Damage Dealt - Damage Mitigated
-Shield Damage Received: `80%` of Damage Received
-Hull Damage Received: `20%` of Damage Received 
-If there is insufficient shield health remaining, the excess damage is applied to the hull health instead.
-Officers like `Harrison`, `TOS Uhura`, and `Harry Mudd` function by altering the `80%`/`20%` damage received distribution.
+`Shield Damage Received = Damage Received * Shield Mitigation`
+- `Shield Mitigation` - The percent of `Damage Received` that is applied to the defender's `Shield Health`, `80%` by default.
+
+`Hull Damage Received = Damage Received - Shield Damage Received`
+- Once the defender's `Shield Health` is depleted, all `Damage Received` is applied to the defender's `Hull Health`.
+
+Note: `Shield Mitigation` is a critical concept. Officers like `Harrison`, `TOS Uhura`, and `Harry Mudd` function by altering the default `Shield Mitigation` value of `80%` in some way. 
+- Rank 1 `Harrison` - Scales down the opponent's `Shield Mitigation` by `60%` for round 1 resulting in a `Shield Mitigation` value of `80% * 0.4 = 32%`. This means that `68%` of the opponent's`Damage Received` is applied their `Hull Health` directly instead of the standard `20%` for Round 1.
