@@ -16,16 +16,6 @@ Multiple players use their smallest, cheapest-to-repair ships (*spammers*) to re
     a) `Klaa` with  `Komal`/`Kras`/`Vixis` 
     b) `Burnham` with `Airiam`/`Georgiou`/`Saru`/`Ash Tyler`/`Paul Stamets`/`Tilly`
     c)  `Pan` with `Joaquin`/`Khan`/`Rima`/`Joachim`/`Kati`/`Navi`
-    
-    **Timed Knock-Off**
-**Purpose:** 
-Prevent powerful enemy ships that are mounted on capture nodes and cannot be promptly destroyed from earning the extra 3 points for being mounted when points are counted.
-**Concept:**
-Time your attacks against these mounted targets to occur at approximately 2-3 seconds before the minute, every minute, timed against the takeover clock displayed in the top right corner of the screen. Ensure the target is still in combat when the minute rolls over on the takeover clock.
-**Details:**
-- Points are only counted once per minute and they are counted *on the minute*
-- Ships in combat are not counted as being mounted on a capture-node
-- For example, initiating combat with a mounted target at `15:02` ensures they are still in combat at `15:00` so they are not counted as being mounted on a capture node and only earn 1 point instead of 4 points.
 
 **Kiting**
 **Purpose:** 
@@ -35,3 +25,13 @@ Continuously run weaker ships away from any pursuing enemies in order to keep th
 **Details:**
 - Fast, cheap ships are useful for this purpose. See `Realta Spam / Swarming`.
 - Even hunters who are confronted by enemy ships they cannot destroy should consider when it is appropriate to kite rather than engage.
+
+**Timed Knock-Off**
+**Purpose:** 
+Prevent powerful enemy ships that are mounted on capture nodes and cannot be promptly destroyed from earning the extra 3 points for being mounted when points are counted.
+**Concept:**
+Time your attacks against these mounted targets to occur at approximately 2-3 seconds before the minute, every minute, timed against the takeover clock displayed in the top right corner of the screen. Ensure the target is still in combat when the minute rolls over on the takeover clock.
+**Details:**
+- Points are only counted once per minute and they are counted *on the minute*
+- Ships in combat are not counted as being mounted on a capture node
+- For example, initiating combat with a mounted target at `15:02` ensures they are still in combat at `15:00` so they are not counted as being mounted on a capture node and only earn 1 point instead of 4 points.
