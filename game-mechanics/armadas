@@ -5,12 +5,12 @@ WIP: How are ships selected, power requirements, reward distribution, display bu
 - Directives
 - Automatic ship selection, Stars, Display bug
 - Rewards distribution
-- Alliance Store
+- Alliance Store - Scaling Armada Credit prices
 
 ** Successful Armadas**
-- `~40%` Power threshold
-- Considerations for leaders
-- Considerations for participants
+- `~40%` Power threshold - `~30%` Unc, `~40%` Rare, `~50%` Epic
+- Considerations for leaders - Pre-made vs PUG, available help, concurrent armada count, hostile factions
+- Considerations for participants - Pull your own weight, crew your ship, hostile tails
 ~~Stop hogging armada slots and share you dickheads....~~
 
 **Overview**
@@ -27,6 +27,6 @@ Ships are selected to participate based on power by default:
 - There is a display error where the Armada dialogue box displays incorrectly low ship power values. This does not impact any mechanics, it is purely a display error.  
 - Armada leaders can override the default ship selection by staring the ships they wish to participate
 
-Rewards are distributed to participants according to their power contribution:
-- Participants receive a percentage of the rewards based on the percentage of the total fleet power their ship contributed. 
-- Ex: Someone with a 1M power ship in a 5M power fleet will receive 1/5 of the rewards, while someone with a 2M power ship in a 5M power fleet will receive 2/5 of the rewards.
+Rewards are distributed to participants according to their damage contribution:
+- Participants receive a percentage of the rewards based on the percentage of the total fleet damage dealt their ship contributed. 
+- Ex: Someone who deals 1M damage out of a total 5M damage dealt by the fleet will receive 1/5 of the rewards, while someone who deals 2M damage out of a total 5M damage dealt by the fleet will receive 2/5 of the rewards.
