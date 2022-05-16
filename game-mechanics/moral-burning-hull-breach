@@ -36,7 +36,7 @@ Many different officers can activate ship statuses. Three examples are provided 
 
 **Contrived Examples**  
 
-Consider `Gorkon` as captain on a `Bortas` which has 3 weapons firing on Round 1.
+Suppose `Gorkon` is captain on a `Bortas` which has 3 weapons firing on Round 1.
 
 - Suppose you score a critical hit with your first weapon hit in Round 1.
 - Suppose `Gorkon`'s officer ability procs with the critical hit, applying a `Hull Breach` to the enemy for 3 rounds.
@@ -44,7 +44,7 @@ Consider `Gorkon` as captain on a `Bortas` which has 3 weapons firing on Round 1
 - Your first weapon hit, which was a critical hit, and activated `Hull Breach` on the enemy ship, does *not* benefit from `Hull Breach`'s background `+80%` critical damage effect because `Hull Breach` was not already active at the time of your first weapon hit.
 - Suppose your second weapon hit in Round 1 is also a critical hit. This second critical hit *does* benefit from `Hull Breach`'s background effect.
 
-Consider `Nero` as captain on a `Vahklas` which has 3 weapons firing each round. 
+Suppose `Nero` is captain on a `Vahklas` which has 3 weapons firing each round. (**NOTE**: Out of Date. Nero's burning has been updated.)
 
 - Suppose that in Round 1, your first two weapon hits fail to proc `Nero`'s officer ability.
 - Suppose your third weapon hit in Round 1 does trigger  `Nero`'s officer ability, activating `Burning` on the enemy for 2 rounds.
@@ -55,7 +55,7 @@ Consider `Nero` as captain on a `Vahklas` which has 3 weapons firing each round.
 - All three of your weapon hits this round will benefit from `Nero`'s captain maneuver damage bonus.
 - Round 2 ends and is counted as the second of the enemy's 2 rounds of `Burning` and the `Burning` status is deactivated.
 
-Consider `Kirk` as captain.
+Suppose `Kirk` as captain.
 
 - Suppose `Kirk`'s officer ability procs at the start of Round 1, activating `Morale` for 2 rounds.
 - `Morale` is now considered active at the start of Round 1.
