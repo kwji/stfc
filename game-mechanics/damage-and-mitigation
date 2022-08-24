@@ -7,7 +7,7 @@ Damage in STFC can be broken down as follows:
     - `Hull Damage Received` - Portion of `Damaged Received` applied to the defender's `Hull Health`.
 
 __**Damage Dealt**__
-`Damage Dealt = Base Damage` * `Damage Multipliers`
+`Damage Dealt` = `Base Damage` * `Damage Multipliers`
 - `Base Damage` - Listed weapon damage with no officers assigned.  Defined by the range `[Min Weapon Damage, Max Weapon Damage]`
 - `Damage Multipliers` - Building bonuses, Research bonuses, Officer attack bonus
 
