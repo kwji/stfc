@@ -17,7 +17,7 @@ See the mitigation calculator to test things out: https://stfc-toolbox.now.sh/mi
 The defender's `Damage Mitigated` is computed as a simple percentage of the attacker's `Damage Dealt` based on the defender's `Damage Mitigation`.
 - `Damage Mitigated = Damage Dealt * Damage Mitigation`
 
-The defender's `Damage Mitigation` value is the percent of an attacker's `Damage Dealt` that is mitigated by the defender (ex: `50%`). 
+The defender's `Damage Mitigation` value is the percentage of an attacker's `Damage Dealt` that is mitigated by the defender (ex: `50%`). 
 - `Damage Mitigation` is a function of the defender's mitigation stats (`Shield Deflection`, `Armor`, `Evasion`) and the attacker's piercing stats (`Shield Piercing`, `Armor Piercing`, `Accuracy`) and is subject to diminishing returns, capping out at `~72%`.
 - Each ship class has a primary mitigation stat that is weighted more heavily than the others when computing damage mitigation:
 - Explorers: `Shield Deflection`
