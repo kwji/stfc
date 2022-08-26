@@ -1,4 +1,4 @@
-**Overview**  
+__Overview__
 
 `Morale`, `Burning`, and `Hull Breach` are ship statuses that are applied to a ship, either your own or the opponent's, by certain officer abilities and captain maneuvers.
 
@@ -8,7 +8,7 @@ Each ship status has a unique *background effect*, while *active effects* are ap
 
 Ship statuses must be active to trigger any related *active effects* and enable their *background effects*.
 
-**Background Effects**  
+__Background Effects__
 
 `Morale` - Improves the ship's piercing stats by approximately `80%` (armor piercing, shield deflection, accuracy).
 
@@ -16,7 +16,7 @@ Ship statuses must be active to trigger any related *active effects* and enable 
 
 `Hull Breach` - Increases the ship's critical damage stat by approximately `80%`. (Ex: If your ship has a critical damage stat of `150%`, then it will increase to `220%-230%`).
 
-**Active Effects**  
+__Active Effects__
 
 Each ship status can trigger active effects depending on the equipped bridge crew. Three examples are provided below.
 
@@ -26,7 +26,7 @@ Each ship status can trigger active effects depending on the equipped bridge cre
 
 Remember, active effects only function while the required ship status is active.
 
-**Activation**  
+__Activation__
 
 Many different officers can activate ship statuses. Three examples are provided below.
 
@@ -34,7 +34,7 @@ Many different officers can activate ship statuses. Three examples are provided 
 - `Kirk`'s officer ability *It's all we have to go on* - % chance to give `Morale` at the start of each round
 - `Nero`'s officer ability *See the Flaws* - % chance to cause `Burning` to the enemy for 2 Rounds when hitting it
 
-**Contrived Examples**  
+__Contrived Examples__
 
 Suppose `Gorkon` is captain on a `Bortas` which has 3 weapons firing on Round 1.
 
