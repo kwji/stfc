@@ -4,7 +4,7 @@ __Mantis Ship Usage__
 - PvE - Ship ability _Actian Corrupter_ `+62000%` damage against **Actian** hostiles (scales with Mantis ship level)
 ![Venomous Puncture Details](res/venomous-puncture-details.jpg)
 ![Venomous Puncture Select](res/venomous-puncture-select.jpg)
-![Venomous Puncture Cost](res/venomous-puncture-Cost.jpg)
+![Venomous Puncture Cost](res/venomous-puncture-cost.jpg)
 
 __Mantis Game Loop__
 - Pull `1000` free **Condensed Venom** daily from the **Mantis Refinery** (analogous to Irvinite)
