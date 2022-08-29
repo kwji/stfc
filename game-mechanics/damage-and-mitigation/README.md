@@ -33,13 +33,16 @@ The defender's `Damage Mitigation` value is the percentage of an attacker's `Dam
 
 __Damage Received__
 
-`Damage Received = Damage Dealt - Damage Mitigated`
+`Damage Received` is what remains after subtracting `Damage Mitigated` from `Damage Dealt`
+- `Damage Received` = `Damage Dealt` - `Damage Mitigated`
 
-`Shield Damage Received = Damage Received * Shield Mitigation`
-- `Shield Mitigation` - The percent of `Damage Received` that is applied to the defender's `Shield Health`, `80%` by default.
+`Shield Damage Received` computed as a percentage of `Damage Received`. If this exceeds the defender's remaining `Shield Health` then the remaining amount is applied to the hull health instead.
+- `Shield Damage Received` = `Damage Received` * `Shield Mitigation`
+- `Shield Mitigation` - The percentage of `Damage Received` to subtract from the defender's `Shield Health`. `80%` by default but can be modified by officer abilities.
 
-`Hull Damage Received = Damage Received - Shield Damage Received`
+`Hull Damage Received` is what remains after subtracting `Shield Damage Received` from `Damage Received`. Once `Shield Health` has been depleted `Hull Damage Received` is equal to `Damage Received`
+- `Hull Damage Received` = `Damage Received` - `Shield Damage Received`
 - Once the defender's `Shield Health` is depleted, all `Damage Received` is applied to the defender's `Hull Health`.
 
-Note: `Shield Mitigation` is a critical concept. Officers like `Harrison`, `TOS Uhura`, and `Harry Mudd` function by altering the default `Shield Mitigation` value of `80%` in some way. 
-- Rank 1 `Harrison` - Scales down the opponent's `Shield Mitigation` by `60%` for round 1 resulting in a `Shield Mitigation` value of `80% * 0.4 = 32%`. This means that `68%` of the opponent's`Damage Received` is applied their `Hull Health` directly instead of the standard `20%` for Round 1.
+Note: `Shield Mitigation` is a critical concept. Officers like `ST Una`, `Harrison`, `TOS Uhura`, and `Harry Mudd` function by altering the `Shield Mitigation` value from its default of `80%` in some way. 
+- Rank 1 `Harrison` - Scales down the opponent's `Shield Mitigation` by `60%` for round 1 resulting in a `Shield Mitigation` value of `80% * 0.4 = 32%`. This means that `68%` of the opponent's `Damage Received` is applied their `Hull Health` directly instead of the standard `20%` for Round 1.
