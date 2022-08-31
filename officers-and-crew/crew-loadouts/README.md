@@ -18,6 +18,8 @@
 - `Moreau` gives a full synergy bonus for Pike, raising Pike's captain maneuver to a `60%` bonus. She also gives a reduction to all hostile piercing stats which is why she is preferred over any other officers in `Pike`'s synergy group.
 - Assuming a max rank  `Chen`, you get a `30% + 60% = 90%` reduction to hostile energy damage.
 
+  ![Pike-Moreau-Chen](res/Pike-Moreau-Chen.jpg)
+
 **General Hostile Grinding 2**
 **Bridge Crew (Capt, Boff, Boff):** `Cadet Uhura`, `Cadet Mccoy`, `Chen`
 **Purpose:** General hostile (reds) grinding but sub-optimal for swarms. For swarms, replace `Chen` with `T'Laan` (See swarm grinding builds below).
@@ -29,12 +31,16 @@
 - `Cadet McCoy` provides both a synergy bonus for `Cadet Uhura` in addition to boosting `Cadet Uhura`'s captain maneuver due to his bridge officer ability (percentage increase for the active captain maneuver)
 - `Chen`'s bridge officer ability provides a hostile energy damage reduction which stacks with `Cadet Uhura`'s general damage reduction.
 
+  ![Cadet Uhura - Cadet McCoy - Chen](res/CadetUhura-CadetMcCoy-Chen.jpg)
+
 **Swarm Hostile Grinding 1**
 **Bridge Crew (Capt, Boff, Boff):** `Pike` , `Moreau`, `T'Laan`
 **Purpose:** Swarm grinding and grinding hostiles that deal primarily kinetic damage.
 **Concept:** Boost `T'Laan`'s hostile kinetic damage reduction bridge officer ability as much as possible using `Pike`'s captain maneuver, since swarm hostiles deal primarily kinetic damage.
 **Comments:**
 - This build functions identically to `General Hostile Grinding 1` but swaps out `Chen` for `T'Laan` to mitigate kinetic instead of energy damage.
+
+  ![Pike-Moreau-Tlaan](res/Pike-Moreau-Tlaan.jpg)
 
 **Swarm Hostile Grinding 2**
 **Bridge Crew (Capt, Boff, Boff):** `Cadet Uhura`, `Cadet Mccoy`, `T'Laan`
@@ -54,8 +60,10 @@
 - `Gaila`'s bridge officer ability reduces incoming critical damage by a significant percentage.
 - Thank you *DinoDNA* for this build!
 
+  ![Kirk-Spock-Gaila](res/Kirk-Spock-Gaila.jpg)
+
 **Standard Morale**
-**Bridge Crew (Capt, Boff, Boff):** `Kirk` , `Spock`, `McCoy` 
+**Bridge Crew (Capt, Boff, Boff):** `Kirk` , `Spock`, `Bones` 
 **Lower Decks:** Maximize total crew defense 
 **Purpose:** General purpose PvP and PvE
 **Concept:** Enhance survivability by maximizing `Spock`'s shield restoration bridge officer ability.
@@ -63,7 +71,9 @@
 - This build doesn't work well until  `Spock` reaches Rank 3 or 4 and `Kirk` reaches Rank 2 or 3.
 - `Kirk`'s bridge officer ability grants `Morale` while his captain maneuver boosts all officer stats, including defense, by a significant percentage while `Morale` is active.
 - `Spock`'s bridge officer ability grants ship shield regeneration each round as a percentage of total officer defense as long as `Morale` is active (`100%` at Rank 3, `400%` at Rank 4, `750%` at Rank 5).
-- `McCoy`'s bridge officer ability is cumulative and increases the defense of every officer on the ship by a percentage each time the ship is hit, thus improving the shield regeneration provided by `Spock`.
+- `Bones`'s bridge officer ability is cumulative and increases the defense of every officer on the ship by a percentage each time the ship is hit, thus improving the shield regeneration provided by `Spock`.
+
+  ![Kirk-Spock-Bones](res/Kirk-Spock-Bones.jpg)
 
 **Max Morale**
 **Bridge Crew (Capt, Boff, Boff):** `McCoy` ,`Kirk` , `Spock`
@@ -101,6 +111,8 @@
 - This build only works because all unmitigated incoming damage is split between shields and hull in an `80%`/`20%` ratio. If there is insufficient shield health to absorb the shield damage then the remaining shield damage is applied to the hull health. So long as your ship shields remain intact, your hull only receives `20%` of the unmitigated incoming damage.
 - Even though `5%` hull restoration is a very small amount, the shield restoration from `Spock` should keep your shields intact much longer so that the `5%` hull restoration only needs to compensate for `20%` of the unmitigated incoming damage, which is itself typically a small amount compared to your ship's total hull health.
 
+  ![Leslie-Kirk-Spock](res/Leslie-Kirk-Spock.jpg)
+
 **Georgiou Burning**
 **Bridge Crew (Capt, Boff, Boff):** `Georgiou`, `Ash Tyler` , `D'Jaoki` 
 **Lower Decks:** Maximize total crew attack and health. 
@@ -112,6 +124,8 @@
 - `Ash Tyler`'s bridge officer ability grants a cumulative bonus to your own ship's weapon damage as a percentage of your ship's total officer attack stats while the opposing ship is burning.
 - `D'Jaoki`'s bridge officer ability cumulatively increases your own ships mitigation stats as a significant percentage of your total officer health stat (`250%` at Rank 3) while the opposing ship is burning.
 - `Ash Tyler` not only provides a synergy bonus to `Georgiou` but also works better on low weapon damage ships as compared to `Decius` (another common damage boosting officer) since `Ash Tyler`'s bonus value is independent of your ship's base weapon damage and thus does not scale down with low base weapon damage as `Decius`'s bonus does.
+
+  ![Georgeu-Tyler-DJaoki](res/georgeu-tyler-djaoki.jpg)
 
 **3* Gas Mining**
 **Bridge Crew (Capt, Boff, Boff):** `T'Pring`, `10 of 10` (or `Domitia`/`Barot`), `Stonn` (or `K'Bisch`/`Makinen`) 
