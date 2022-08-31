@@ -125,7 +125,7 @@
 - `D'Jaoki`'s bridge officer ability cumulatively increases your own ships mitigation stats as a significant percentage of your total officer health stat (`250%` at Rank 3) while the opposing ship is burning.
 - `Ash Tyler` not only provides a synergy bonus to `Georgiou` but also works better on low weapon damage ships as compared to `Decius` (another common damage boosting officer) since `Ash Tyler`'s bonus value is independent of your ship's base weapon damage and thus does not scale down with low base weapon damage as `Decius`'s bonus does.
 
-  ![Georgeu-Tyler-DJaoki](res/georgeu-tyler-djaoki.jpg)
+  ![Georgeu-Tyler-DJaoki](res/Georgeu-Tyler-DJaoki.jpg)
 
 **3* Gas Mining**
 **Bridge Crew (Capt, Boff, Boff):** `T'Pring`, `10 of 10` (or `Domitia`/`Barot`), `Stonn` (or `K'Bisch`/`Makinen`) 
