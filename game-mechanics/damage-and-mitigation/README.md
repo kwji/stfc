@@ -13,15 +13,15 @@ Damage Dealt is computed based on the attacker's weapons' `Base Damage` , the at
 - `Damage Dealt` = `Base Damage` * `Damage Modifiers` * `Critical Multiplier` * `Hull Breach Multiplier` 
 - `Base Damage` - Listed weapon damage with no officers assigned defined by the range `[Min Weapon Damage, Max Weapon Damage]`. Note that _some_ damage modifiers directly modify this `Base Damage` value (ex: _Damage Enhancer_/_Advanced Damage Enhancer_ territory services)
 - `Damage Modifiers` - The sum of non-base-value damage bonuses and debuffs (ex: Building bonuses, Research bonuses, Officer attack bonus, Officer abilities, Below Decks abilities Ceritos Support, etc)
-- `Critical Multiplier` - The sum of the ship's displayed _Critical Damage_ attack statistic and any relevant critical damage modifiers (ex: Officer abilities, non-global Research bonuses, Mantis Debuff, etc) if the weapon hit is a critical hit. Otherwise this is just `1` (that is `100%`)
-- `Hull Breach Multiplier` - Final multiplier of `1.5` (that is `150%`) if the hit is a critical hit _and_ the defender has an active _Hull Breach_. Otherwise this is just `1` (that is `100%`)
+- `Critical Multiplier` - The sum of the ship's displayed _Critical Damage_ attack statistic and any relevant critical damage modifiers (ex: Officer abilities, non-global Research bonuses, Mantis Debuff, etc) if the weapon hit is a critical hit. Otherwise this is just `100%`.
+- `Hull Breach Multiplier` - Final multiplier of `150%` if the hit is a critical hit _and_ the defender has an active _Hull Breach_. Otherwise this is just `100%`.
 
 __Damage Mitigated__
 
 See the mitigation calculator to test things out: https://stfc-toolbox.now.sh/mitigation
 
 The defender's `Damage Mitigated` is computed as a simple percentage of the attacker's `Damage Dealt` based on the defender's `Damage Mitigation`.
-- `Damage Mitigated = Damage Dealt * Damage Mitigation`
+- `Damage Mitigated` = `Damage Dealt` * `Damage Mitigation`
 
 The defender's `Damage Mitigation` value is the percentage of an attacker's `Damage Dealt` that is mitigated by the defender (ex: `50%` or `0.5`). 
 - `Damage Mitigation` is a function of the defender's mitigation stats (`Shield Deflection`, `Armor`, `Evasion`) and the attacker's piercing stats (`Shield Piercing`, `Armor Piercing`, `Accuracy`) and is subject to diminishing returns, capping out at `~72%` or `0.72`.
@@ -36,7 +36,7 @@ __Damage Received__
 `Damage Received` is what remains after subtracting `Damage Mitigated` from `Damage Dealt`
 - `Damage Received` = `Damage Dealt` - `Damage Mitigated`
 
-`Shield Damage Received` computed as a percentage of `Damage Received`. If this exceeds the defender's remaining `Shield Health` then the remaining amount is applied to the hull health instead.
+`Shield Damage Received` is computed as a percentage of `Damage Received`. If this exceeds the defender's remaining `Shield Health` then the remaining amount is applied to the hull health instead.
 - `Shield Damage Received` = `Damage Received` * `Shield Mitigation`
 - `Shield Mitigation` - The percentage of `Damage Received` to subtract from the defender's `Shield Health`. `80%` by default but can be modified by officer abilities.
 
