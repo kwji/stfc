@@ -41,16 +41,16 @@ __Alliance Starbase (ASB)__
     - _Tactical Deck_ - Increases damage against **Cardassian Armadas**
     - _Diplomatic Relations_ - Increases **Alliance Points** gained
 - Other ASB modules improve the ASB's ability to reach, harvest and store **Plasma** from **Plasma Storms**:
-    - _Collisional Plasma Harvesters_ - Increase **Collisional Plasma** harvesting rate from **Collisional Plasma Storms** (analogous to player station resource generators)
+    - _Collisional Plasma Harvesters_ - Increase **Collisional Plasma** harvesting rate from **Collisional Plasma Storms**. Must periodically be collected manually (analogous to player station resource generators)
     - _Collisional Plasma Vaults_ - Increase **Collisional Plasma** vault protection (analogous to player station resource vaults)
-    - _Magnetic Plasma Harvesters_ - Increase **Magnetic Plasma** harvesting rate from **Magnetic Plasma Storms** (analogous to player station resource generators)
+    - _Magnetic Plasma Harvesters_ - Increase **Magnetic Plasma** harvesting rate from **Magnetic Plasma Storms**. Must periodically be collected manually (analogous to player station resource generators)
     - _Magnetic Plasma Vaults_ - Increase **Magnetic Plasma** vault protection (analogous to player station resource vaults)
-    - _Plasma Processor_ - Increase **Collisional Plasma** and **Magnetic Plasma** storage capacity.
+    - _Plasma Processor_ - Increase **Collisional Plasma** and **Magnetic Plasma** storage capacity. Increase the amount of **Plasma** that can be harvested from a **Plasma Storm** before the ASB must be relocated.
     - _Assembly Chambers_ - Increase ASB relocation range (analogous to player station Operations building)
 - Spend **Subspace Superconductors**, **Collisional Plasma**, and **Magnetic Plasma** to upgrade ASB modules:
     - Collect **Subspace Superconductors** by pulling **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests from the Alliance Store
     - Spend **Alliance Reserves** to relocate the ASB to available **Collisional Plasma Storms** and **Magnetic Plasma Storms** for harvesting.
-    - Harvesters have a hidden (not displayed) limit on the amount of plasma they can harvest from a Plasma Storm before halting. The ASB must be relocated to another Plasma Storm in order to continue harvesting Plasma.
+    - The ASB can only collect a fixed amount of **Plasma**, determined by the _Plasma Processor_ module, from a **Plasma Storm** before it must be relocated.
     
 __Plasma Storm Locations__
 - **Collisional Plasma Storms**
