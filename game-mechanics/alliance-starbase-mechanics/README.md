@@ -2,9 +2,9 @@ __Alliance Starbase (ASB) Game Loop__
 - Use regular Armada Directives to run **Cardassian Armadas** in **Cardassian Space**
 - Defeat Uncommon/Rare/Epic **Cardassian Armadas** to earn **Alliance Points** and either **Cardassian Loot** (Uncommons) or **Superior Cardassian Loot** (Rares/Epics)
 - Spend **Cardassian Loot** and **Superior Cardassian Loot** in the Alliance Store to pull **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests (daily):
-    - **Resistance Bounties** - Costs `x`/`y`/`z` **Cardassian Loot** (1/2/3 chests). Gives "a little of everything". 
-    - **Alliance Altruism** - Costs `x`/`y`/`z` **Superior Cardassian Loot** (1/2/3 chests). Gives the most for the **Alliance Starbase** but gives the least for your Starbase research.
-    - **Maquis Bounties** - Costs `x`/`y`/`z`  **Superior Cardassian Loot** (1/2/3 chests). Gives "a lot of everything".
+    - **Resistance Bounties** - Costs **Cardassian Loot**. Gives "a little of everything". 
+    - **Alliance Altruism** - Costs **Superior Cardassian Loot**. Gives the most for the **Alliance Starbase** but gives the least for your Starbase research.
+    - **Maquis Bounties** - Costs **Superior Cardassian Loot**. Gives "a lot of everything".
 - Pull **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests to collect new materials and reputation:
     - **Assembly Medals** - Starbase research in the new **Starbase Research Tree** (analogous to Iso-emulsion)
     - **Alliance Points** (**Alliance Reputation**) - Progression requirement for higher level Starbase research (analogous to Rogue Reputation).
