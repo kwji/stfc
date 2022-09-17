@@ -1,8 +1,6 @@
 __Alliance Starbase (ASB) Game Loop__
 - Use regular Armada Directives to run **Cardassian Armadas** in **Cardassian Space**
-- Defeat Uncommon/Rare/Epic **Cardassian Armadas** to earn **Cardassian Loot**,  **Superior Cardassian Loot**, and **Alliance Points**:
-    - Uncommon **Cardassian Armadas** -> **Cardassian Loot** and **Alliance Reputation** 
-    - Rare/Epic **Cardassian Armadas** -> **Superior Cardassian Loot** and **Alliance Reputation** 
+- Defeat Uncommon/Rare/Epic **Cardassian Armadas** to earn **Alliance Points** and either **Cardassian Loot** (Uncommons) or **Superior Cardassian Loot** (Rares/Epics)
 - Spend **Cardassian Loot** and **Superior Cardassian Loot** in the Alliance Store to pull **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests (daily):
     - **Cardassian Loot** -> **Resistance Bounties**
     - **Superior Cardassian Loot** -> **Alliance Altruism** and **Maquis Bounties** 
@@ -19,6 +17,10 @@ __Alliance Starbase (ASB) Game Loop__
   ![Maquis Bounties](res/cardassian-armada-chests-maquis-bounties.jpg)
 
 __Cardassian Armadas__
+- The **Cardassian Loot** and **Superior Cardassian Loot** rewards scale based on armada level and armada rarity. However, the **Alliance Point** rewards only scale based on armada rarity:
+    - Uncommon **Cardassian Armadas** reward **Cardassian Loot** and `5K` **Alliance Points** 
+    - Rare **Cardassian Armadas** reward **Superior Cardassian Loot** and `15K` **Alliance Points** 
+    - Epic **Cardassian Armadas** reward **Superior Cardassian Loot** and `25K` **Alliance Points**
 - Cardassian armadas have high base critical chance and deal high critical damage:
     - `20%` base Critical Chance
     - `300%` / `375%` / `450%` Critical Damage for Uncommon / Rare / Epic respectively
