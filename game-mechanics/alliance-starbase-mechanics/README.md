@@ -8,23 +8,56 @@ __Alliance Starbase (ASB) Game Loop__
     - **Superior Cardassian Loot** -> **Alliance Altruism** and **Maquis Bounties** 
 - Pull **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests to collect new materials and reputation:
     - **Assembly Medals** - Starbase research in the new **Starbase Research Tree** (analogous to Iso-emulsion)
-    - **Alliance Points** (Alliance Reputation) - Progression requirement for higher level Starbase research (analogous to Rogue Reputation). **Note:** Resets to 0 after leaving an alliance.
-    - **Subspace Superconductors** - Upgrade Alliance Starbase (ASB) buildings Automatically donated to the Alliance Inventory (analogous to Progenitor materials or Refined Isogen from Territory)
-    - **Alliance Speedups** - Speed-up ASB building upgrades
-    - **Alliance Reserves** - Relocate ASB (Analogous to relocation tokens)
+    - **Alliance Points** (**Alliance Reputation**) - Progression requirement for higher level Starbase research (analogous to Rogue Reputation).
+    - **Subspace Superconductors** - Upgrade **Alliance Starbase**modules. Automatically donated to the Alliance Inventory
+    - **Alliance Speedups** - Speed-up **Alliance Starbase** module upgrades. Automatically donated to the Alliance Inventory
+    - **Alliance Reserves** - Relocate **Alliance Starbase**. Automatically donated to the Alliance Inventory
 
 __Cardassian Armadas__
-- Cardassian armadas have high `20%` base critical chance and deal high critical damage: `300%`/`375%`/`450%` for Uncommon/Rare/Epic respectively.
-    - Uncommon Cardassian Armadas also have a special ability that increases their own critical chance by `10%` each round.
-- Crews:
-    - Uncommon - Picard, Beverly, Gaila or Pike, Moreau, Chen (all ships)
-    - Rare/Epic - Deanna Troy, Beverly, Picard (strongest ship)
+- Cardassian armadas have high base critical chance and deal high critical damage:
+    - `20%` base Critical Chance
+    - `300%` / `375%` / `450%` Critical Damage for Uncommon / Rare / Epic respectively
+    - Uncommons increase their own Critical Chance by `10%` every round (`100%` by round 9)
+- Armada Crews:
+    - Uncommons - Picard, Beverly, Gaila or Pike, Moreau, Gaila (everyone)
+    - Rares/Epics - Deanna Troy, Beverly, Picard (strongest ship)
 
 __Starbase Research__
 - Spend **Assembly Medals** on Starbase research from the new _Starbase_  research tree
-- Higher level Starbase research nodes require higher Alliance Reputation levels (analogous to eclipse research)
-    - Gain **Alliance Points** by defeating **Cardassian Armadas** and pulling **Resistance Bounties** and **Maquis Bounties** Armada Chests to increase your Alliance Reputation
-- Complete Level 1 of all Starbase research nodes to receive the largest bonuses before researching higher levels.
+- Higher level Starbase research require higher level **Alliance Starbase** modules and higher **Alliance Reputation**
+- Complete Level 1 of all Starbase research nodes to receive the largest bonuses before researching higher levels
     - Level 1 of most Starbase research nodes provides a large bonus with subsequent levels providing smaller improvements
+- Starbase research only applies to yourself (not the alliance) and is permanent (research/bonuses are _not_ lost if you leave an alliance) 
 
-__Alliance Starbase__
+__Alliance Starbase (ASB)__
+- Alliance owned Station that provides buffs to all alliance members:
+    - Only Admiral/Commodores can relocate the ASB or build ASB modules
+- Certain ASB modules provide buffs for alliance members:
+    - _Tactical Deck_ - Increases damage against **Cardassian Armadas**
+    - _Diplomatic Relations_ - Increases **Alliance Points** gained
+- Other ASB modules improve the ASB's ability to reach, harvest and store **Plasma** from **Plasma Storms**:
+    - _Collisional Plasma Harvesters_ - Increase **Collisional Plasma** harvesting rate from **Collisional Plasma Storms** (analogous to player station resource generators)
+    - _Collisional Plasma Vaults_ - Increase **Collisional Plasma** vault protection (analogous to player station resource vaults)
+    - _Magnetic Plasma Harvesters_ - Increase **Magnetic Plasma** harvesting rate from **Magnetic Plasma Storms** (analogous to player station resource generators)
+    - _Magnetic Plasma Vaults_ - Increase **Magnetic Plasma** vault protection (analogous to player station resource vaults)
+    - _Plasma Processor_ - Increase **Collisional Plasma** and **Magnetic Plasma** storage capacity.
+    - _Assembly Chambers_ - Increase ASB relocation range (analogous to player station Operations building)
+- Spend **Subspace Superconductors**, **Collisional Plasma**, and **Magnetic Plasma** to upgrade ASB modules:
+    - Collect **Subspace Superconductors** by pulling **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests from the Alliance Store
+    - Spend **Alliance Reserves** to relocate the ASB to available **Collisional Plasma Storms** and **Magnetic Plasma Storms** for harvesting.
+- **Collisional Plasma Storm** Locations
+    - Level 16: Bharani, Eizeb, Jishui, Kaus Australis, Ora Leraa, Pune
+    - Level 17: Aciben, Freyda, Kaus Borealis, Kaus Media, Oltomon, Vemet
+    - Level 18: Bubeau, Dalukerinborva, Helvetios, Skyedark, Todem, Wezen
+    - Level 19: Eisenhorn, Gelvin, Kosz, Wasat, Zeta Polis, Zhang
+    - Level 21: Baryn, BeK, Le'Onor, Llorrac, Lo'Uren, Mada
+    - Level 22: Dauouuy, Iocau, Jonauer, Rosec, Woxoxit, Zadiaoo
+    - Level 23: Foaiveb, Godui, Gowok, Posel, Tufem, Uikuv
+- **Magnetic Plasma Storm** Locations
+    - Level 29: Morska, P'Jem, Rator
+    - Level 30: Ascher, Doloran, Elequa, Emie, Galorndon Core, H'Atoria, Jaq, Lloyd, Noakyn, Nurnias, Parka, Sahqooq
+    - Level 31: Barklay, Ebisu, Inari, Lempo, Lipig, May'lang, Robeton, Sinisser, Tandorian, Tullias, Ulrich
+    - Level 32: Izanagi
+    - Level 33: Aiti, Ferrer, Kaisu, Kavka, Pekka
+    - Level 34: Tau Ceti
+    - Level 35: Argentomea, Siiolux
