@@ -68,3 +68,10 @@ __Plasma Storm Locations__
     - Level 33: Aiti, Ferrer, Kaisu, Kavka, Pekka
     - Level 34: Tau Ceti
     - Level 35: Argentomea, Siiolux
+    
+__References__
+- https://scopely.helpshift.com/hc/en/19-star-trek-fleet-command/faq/6917-alliance-starbase/
+- https://www.youtube.com/watch?v=utiwKniMSXw&t=119s
+- https://www.youtube.com/watch?v=6VYEnD782lo
+- https://www.youtube.com/watch?v=7L2wifaLrOU
+- https://stfc.space/buildings?f=$name=%26s=2%26page:1&s=$ascending:true%26sortBy:0
