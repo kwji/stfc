@@ -18,7 +18,7 @@ Damage Dealt is computed based on the attacker's weapons' `Base Damage` , the at
 
 __Damage Mitigated__
 
-See the mitigation calculator to test things out: https://stfc-toolbox.now.sh/mitigation
+See the mitigation calculator to test things out: https://stfc-toolbox.vercel.app/mitigation
 
 The defender's `Damage Mitigated` is computed as a simple percentage of the attacker's `Damage Dealt` based on the defender's `Damage Mitigation`.
 - `Damage Mitigated` = `Damage Dealt` * `Damage Mitigation`
