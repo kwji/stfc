@@ -50,6 +50,7 @@ __Alliance Starbase (ASB)__
 - Spend **Subspace Superconductors**, **Collisional Plasma**, and **Magnetic Plasma** to upgrade ASB modules:
     - Collect **Subspace Superconductors** by pulling **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests from the Alliance Store
     - Spend **Alliance Reserves** to relocate the ASB to available **Collisional Plasma Storms** and **Magnetic Plasma Storms** for harvesting.
+    - Harvesters have a hidden (not displayed) limit on the amount of plasma they can harvest from a Plasma Storm before halting. The ASB must be relocated to another Plasma Storm in order to continue harvesting Plasma.
     
 __Plasma Storm Locations__
 - **Collisional Plasma Storms**
