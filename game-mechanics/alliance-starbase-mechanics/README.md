@@ -18,9 +18,14 @@ __Cardassian Armadas__
     - `20%` base Critical Chance
     - `300%` / `375%` / `450%` Critical Damage for Uncommon / Rare / Epic respectively
     - Uncommons increase their own Critical Chance by `10%` every round (`100%` by round 9)
-- Armada Crews:
-    - Uncommons - Picard, Beverly, Gaila or Pike, Moreau, Gaila (everyone)
-    - Rares/Epics - Deanna Troy, Beverly, Picard (strongest ship)
+- Uncommon Armada Crews:
+    - Everyone should crew to maximize `Gaila`'s critical damage reduction
+    - `Picard`,`Beverly`,`Gaila`
+    - `Pike`,`Moreau`,`Gaila`
+- Rare/Epic Armada Crews:
+    - Useful to reduce the Armada's critical chance or critical damage
+    - `Deanna Troy`, `Beverly`, `Picard` (only 1 ship)
+    - `Gaila` as a bridge officer
 
 __Starbase Research__
 - Spend **Assembly Medals** on Starbase research from the new _Starbase_  research tree
@@ -45,7 +50,9 @@ __Alliance Starbase (ASB)__
 - Spend **Subspace Superconductors**, **Collisional Plasma**, and **Magnetic Plasma** to upgrade ASB modules:
     - Collect **Subspace Superconductors** by pulling **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests from the Alliance Store
     - Spend **Alliance Reserves** to relocate the ASB to available **Collisional Plasma Storms** and **Magnetic Plasma Storms** for harvesting.
-- **Collisional Plasma Storm** Locations
+    
+__Plasma Storm Locations__
+- **Collisional Plasma Storms**
     - Level 16: Bharani, Eizeb, Jishui, Kaus Australis, Ora Leraa, Pune
     - Level 17: Aciben, Freyda, Kaus Borealis, Kaus Media, Oltomon, Vemet
     - Level 18: Bubeau, Dalukerinborva, Helvetios, Skyedark, Todem, Wezen
@@ -53,7 +60,7 @@ __Alliance Starbase (ASB)__
     - Level 21: Baryn, BeK, Le'Onor, Llorrac, Lo'Uren, Mada
     - Level 22: Dauouuy, Iocau, Jonauer, Rosec, Woxoxit, Zadiaoo
     - Level 23: Foaiveb, Godui, Gowok, Posel, Tufem, Uikuv
-- **Magnetic Plasma Storm** Locations
+- **Magnetic Plasma Storms**
     - Level 29: Morska, P'Jem, Rator
     - Level 30: Ascher, Doloran, Elequa, Emie, Galorndon Core, H'Atoria, Jaq, Lloyd, Noakyn, Nurnias, Parka, Sahqooq
     - Level 31: Barklay, Ebisu, Inari, Lempo, Lipig, May'lang, Robeton, Sinisser, Tandorian, Tullias, Ulrich
