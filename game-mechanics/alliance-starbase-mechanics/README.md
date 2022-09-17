@@ -40,8 +40,8 @@ __Cardassian Armadas__
   ![Uncommon Cardassian Armada Crew](res/cardassian-armada-crew-unc.jpg)
 
 __Starbase Research__
-- Spend **Assembly Medals** on Starbase research from the new _Starbase_  research tree
-- Higher level Starbase research require higher level **Alliance Starbase** modules and higher **Alliance Reputation**
+- Spend **Assembly Medals** on Starbase research from the new **Starbase Research Tree**
+- Higher level Starbase research requires higher level **Alliance Starbase** modules and higher **Alliance Reputation**
 - Complete Level 1 of all Starbase research nodes to receive the largest bonuses before researching higher levels
     - Level 1 of most Starbase research nodes provides a large bonus with subsequent levels providing smaller improvements
 - Starbase research only applies to yourself (not the alliance) and is permanent (research/bonuses are _not_ lost if you leave an alliance) 
@@ -67,7 +67,7 @@ __Alliance Starbase (ASB)__
     - Collect **Subspace Superconductors** by pulling **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests from the Alliance Store
     - Spend **Alliance Reserves** to relocate the ASB to available **Collisional Plasma Storms** and **Magnetic Plasma Storms** for harvesting.
     - The ASB can only collect a fixed amount of **Plasma**, determined by the _Plasma Processor_ module, from a **Plasma Storm** before it must be relocated.
-    
+
   ![Alliance Inventory](res/alliance-inventory.jpg)
   ![Alliance Starbase](res/asb.jpg)
   ![Tactical Deck](res/asb-tactical-deck.jpg)
