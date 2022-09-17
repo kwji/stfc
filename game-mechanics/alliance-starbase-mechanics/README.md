@@ -9,9 +9,14 @@ __Alliance Starbase (ASB) Game Loop__
 - Pull **Resistance Bounties**, **Alliance Altruism**, and **Maquis Bounties** Armada Chests to collect new materials and reputation:
     - **Assembly Medals** - Starbase research in the new **Starbase Research Tree** (analogous to Iso-emulsion)
     - **Alliance Points** (**Alliance Reputation**) - Progression requirement for higher level Starbase research (analogous to Rogue Reputation).
-    - **Subspace Superconductors** - Upgrade **Alliance Starbase**modules. Automatically donated to the Alliance Inventory
+    - **Subspace Superconductors** - Upgrade **Alliance Starbase** modules. Automatically donated to the Alliance Inventory
     - **Alliance Speedups** - Speed-up **Alliance Starbase** module upgrades. Automatically donated to the Alliance Inventory
     - **Alliance Reserves** - Relocate **Alliance Starbase**. Automatically donated to the Alliance Inventory
+
+  ![Cardassian Armada Chests](res/cardassian-armada-chests.jpg)
+  ![Resistance Bounties](res/cardassian-armada-chests-resistance-bounties.jpg)
+  ![Alliance Altruism](res/cardassian-armada-chests-alliance-altruism.jpg)
+  ![Maquis Bounties](res/cardassian-armada-chests-maquis-bounties.jpg)
 
 __Cardassian Armadas__
 - Cardassian armadas have high base critical chance and deal high critical damage:
@@ -26,6 +31,13 @@ __Cardassian Armadas__
     - Useful to reduce the Armada's critical chance or critical damage
     - `Deanna Troy`, `Beverly`, `Picard` (only 1 ship)
     - `Gaila` as a bridge officer
+    
+  ![Cardassian Space](res/cardassian-space.jpg)
+  ![Epic Cardassian Armada Rewards](res/cardassian-armada-rewards-epic.jpg)
+  ![Rare Cardassian Armada Rewards](res/cardassian-armada-rewards-rare.jpg)
+  ![Uncommon Cardassian Armada Rewards](res/cardassian-armada-rewards-unc.jpg)
+  ![Uncommon Cardassian Armada Ship Ability](res/cardassian-armada-ship-ability.jpg)
+  ![Uncommon Cardassian Armada Crew](res/cardassian-armada-crew-unc.jpg)
 
 __Starbase Research__
 - Spend **Assembly Medals** on Starbase research from the new _Starbase_  research tree
@@ -34,8 +46,12 @@ __Starbase Research__
     - Level 1 of most Starbase research nodes provides a large bonus with subsequent levels providing smaller improvements
 - Starbase research only applies to yourself (not the alliance) and is permanent (research/bonuses are _not_ lost if you leave an alliance) 
 
+  ![Starbase Research](res/starbase-research-tree.jpg)
+  ![Assembly Medals](res/starbase-research-cost.jpg)
+  ![Starbase Reputation Requirement](res/starbase-research-rep-req.jpg)
+
 __Alliance Starbase (ASB)__
-- Alliance owned Station that provides buffs to all alliance members:
+- Alliance owned Station that provides buffs to all alliance members using materials donated by members:
     - Only Admiral/Commodores can relocate the ASB or build ASB modules
 - Certain ASB modules provide buffs for alliance members:
     - _Tactical Deck_ - Increases damage against **Cardassian Armadas**
@@ -52,6 +68,13 @@ __Alliance Starbase (ASB)__
     - Spend **Alliance Reserves** to relocate the ASB to available **Collisional Plasma Storms** and **Magnetic Plasma Storms** for harvesting.
     - The ASB can only collect a fixed amount of **Plasma**, determined by the _Plasma Processor_ module, from a **Plasma Storm** before it must be relocated.
     
+  ![Alliance Inventory](res/alliance-inventory.jpg)
+  ![Alliance Starbase](res/asb.jpg)
+  ![Tactical Deck](res/asb-tactical-deck.jpg)
+  ![Diplomatic Relations](res/asb-diplomatic-relations.jpg)
+  ![Collisional Plasma Storm](res/plasma-storm-collisional.jpg)
+  ![Magnetic Plasma Storm](res/plasma-storm-magnetic.jpg)
+
 __Plasma Storm Locations__
 - **Collisional Plasma Storms**
     - Level 16: Bharani, Eizeb, Jishui, Kaus Australis, Ora Leraa, Pune
@@ -69,7 +92,7 @@ __Plasma Storm Locations__
     - Level 33: Aiti, Ferrer, Kaisu, Kavka, Pekka
     - Level 34: Tau Ceti
     - Level 35: Argentomea, Siiolux
-    
+
 __References__
 - https://scopely.helpshift.com/hc/en/19-star-trek-fleet-command/faq/6917-alliance-starbase/
 - https://www.youtube.com/watch?v=utiwKniMSXw&t=119s
