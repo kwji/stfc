@@ -62,8 +62,8 @@ __Alliance Starbase (ASB)__
 - Other ASB modules improve the ASB's ability to reach, harvest and store **Plasma** from **Plasma Storms**:
     - _Collisional Plasma Harvesters_ - Increase **Collisional Plasma** harvesting rate from **Collisional Plasma Storms**. Must periodically be collected manually (analogous to player station resource generators)
     - _Collisional Plasma Vaults_ - Increase **Collisional Plasma** vault protection (analogous to player station resource vaults)
-    - _Magnetic Plasma Harvesters_ - Increase **Magnetic Plasma** harvesting rate from **Magnetic Plasma Storms**. Must periodically be collected manually (analogous to player station resource generators)
-    - _Magnetic Plasma Vaults_ - Increase **Magnetic Plasma** vault protection (analogous to player station resource vaults)
+    - _Magnetic Plasma Harvesters_ - Increase **Magnetic Plasma** harvesting rate from **Magnetic Plasma Storms**. Must periodically be collected manually
+    - _Magnetic Plasma Vaults_ - Increase **Magnetic Plasma** vault protection
     - _Plasma Processor_ - Increase **Collisional Plasma** and **Magnetic Plasma** storage capacity. Increase the amount of **Plasma** that can be harvested from a **Plasma Storm** before the ASB must be relocated.
     - _Assembly Chambers_ - Increase ASB relocation range (analogous to player station Operations building)
 - Spend **Subspace Superconductors**, **Collisional Plasma**, and **Magnetic Plasma** to upgrade ASB modules:
