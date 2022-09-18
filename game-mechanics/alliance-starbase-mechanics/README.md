@@ -16,6 +16,7 @@ __Alliance Starbase (ASB) Game Loop__
   ![Resistance Bounties](res/cardassian-armada-chests-resistance-bounties.jpg)
   ![Alliance Altruism](res/cardassian-armada-chests-alliance-altruism.jpg)
   ![Maquis Bounties](res/cardassian-armada-chests-maquis-bounties.jpg)
+  ![Alliance Inventory](res/alliance-inventory.jpg)
 
 __Cardassian Armadas__
 - The **Cardassian Loot** and **Superior Cardassian Loot** rewards scale based on armada level and armada rarity. However, the **Alliance Point** rewards only scale based on armada rarity:
@@ -35,7 +36,6 @@ __Cardassian Armadas__
     - `Deanna Troy`, `Beverly`, `Picard` (only 1 ship)
     - `Gaila` as a bridge officer
     
-  ![Cardassian Space](res/cardassian-space.jpg)
   ![Epic Cardassian Armada Rewards](res/cardassian-armada-rewards-epic.jpg)
   ![Rare Cardassian Armada Rewards](res/cardassian-armada-rewards-rare.jpg)
   ![Uncommon Cardassian Armada Rewards](res/cardassian-armada-rewards-unc.jpg)
@@ -71,13 +71,12 @@ __Alliance Starbase (ASB)__
     - Spend **Alliance Reserves** to relocate the ASB to available **Collisional Plasma Storms** and **Magnetic Plasma Storms** for harvesting.
     - The ASB can only collect a fixed amount of **Plasma**, determined by the _Plasma Processor_ module, from a **Plasma Storm** before it must be relocated.
 
-  ![Alliance Inventory](res/alliance-inventory.jpg)
   ![Alliance Starbase](res/asb.jpg)
   ![Tactical Deck](res/asb-tactical-deck.jpg)
   ![Diplomatic Relations](res/asb-diplomatic-relations.jpg)
   ![Collisional Plasma Storm](res/plasma-storm-collisional.jpg)
   ![Magnetic Plasma Storm](res/plasma-storm-magnetic.jpg)
-
+  
 __Plasma Storm Locations__
 - **Collisional Plasma Storms**
     - Level 16: Bharani, Eizeb, Jishui, Kaus Australis, Ora Leraa, Pune
@@ -95,6 +94,7 @@ __Plasma Storm Locations__
     - Level 33: Aiti, Ferrer, Kaisu, Kavka, Pekka
     - Level 34: Tau Ceti
     - Level 35: Argentomea, Siiolux
+
 
 __References__
 - https://scopely.helpshift.com/hc/en/19-star-trek-fleet-command/faq/6917-alliance-starbase/
