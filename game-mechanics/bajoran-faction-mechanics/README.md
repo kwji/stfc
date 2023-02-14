@@ -30,6 +30,9 @@ __Dominion Solo Armadas__
     - `5 of 11`, `6 of 11`, `Khan`
     - `Sisko`, `O'Brian`, `Bashir` 
     - `Picard`, `Beverly`, `Lorca`
+- To maximize armada rewards use greedy crews, however the risk of failure is increased. Examples:
+    - `5 of 11`, `6 of 11`, any officer
+    - `Geordi`, synergy officer, `5 of 11`
 
   ![Dominion Armadas](res/rare-armada-rewards.jpg)
   ![Rare Armada Rewards](res/unc-armada-chest.jpg)
