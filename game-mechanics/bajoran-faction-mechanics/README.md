@@ -57,3 +57,9 @@ __Defiant Research__
     - For most Defiant Research nodes, level 1 grants a large bonus with subsequent levels granting smaller bonuses
 
   ![Defiant Research](res/defiant-research.jpg)
+
+__References__
+* https://www.startrekfleetcommand.com/2022/10/04/update-47-deep-space-nine-pt-2/
+* https://scopely.helpshift.com/hc/en/19-star-trek-fleet-command/faq/6980-bajoran/
+* https://www.startrekfleetcommand.com/2022/11/08/update-48-patch-notes/
+* https://scopely.helpshift.com/hc/en/19-star-trek-fleet-command/faq/7037-uss-defiant/
