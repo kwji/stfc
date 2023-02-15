@@ -35,10 +35,10 @@ __Dominion Solo Armadas__
     - `Geordi`, synergy officer, `5 of 11`
 
   ![Dominion Armadas](res/rare-armada-rewards.jpg)
-  ![Rare Armada Rewards](res/unc-armada-chest.jpg)
-  ![Rare Armada Rewards](res/rare-armada-chest.jpg)
-  ![Rare Armada Rewards](res/epic-armada-chest.jpg)
-  ![Rare Armada Rewards](res/elite-armada-chest.jpg)
+  ![Uncommon Armada Chest](res/unc-armada-chest.jpg)
+  ![Rare Armada Chest](res/rare-armada-chest.jpg)
+  ![Epic Armada Chest](res/epic-armada-chest.jpg)
+  ![Elite Armada Chest](res/elite-armada-chest.jpg)
   ![Armada Crews](res/armada-crews.png)
 
 __Defiant Ship Usage__
