@@ -3,8 +3,8 @@ __Bajoran Faction Game Loop__
 - Grind **Jem'Hadar** hostiles in **Dominion Space** (Northwest of Federation space) to collect **Antimatter Units**
 - Spend **Antimatter Units** in the **Bajoran Faction Store** to collect more **Bajoran Badges** from the **Hostile Exchange** bundle
 - Spend **Bajoran Badges** in the **Bajoran Faction Store** to collect other currencies from various bundles:
-    - **Bajoran Reputation** - Increases your **Bajoran Faction Reputation** level (**Reputation Advancement** bundle)
-    - Uncommon **Dominion Solo Armada Directives** - Start Uncommon **Dominion Solo Armadas** (**Directive Exchange** bundle). 
+    - **Bajoran Reputation** - Increases your **Bajoran Faction Reputation** level (daily **Reputation Advancement** bundle)
+    - Uncommon **Dominion Solo Armada Directives** - Start Uncommon **Dominion Solo Armadas** (daily **Directive Exchange** bundle, `100` directives). 
     - **Bajoran Credits** - Purchase other materials and buffs in the **Bajoran Faction Store**.
 - Spend **Bajoran Credits** in the **Bajoran Faction Store** to collect:
     - **Ablative Armor Parts** - **Defiant** ship component upgrades
