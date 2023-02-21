@@ -19,8 +19,6 @@ __Overview__
     - **Borg Solo Armadas**
     - **Expansion Cube Armadas**
 
-  ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
-
 __Primary Game Loop__
 
 - Collect `2` free **Transwarp Cells** from the _Gifts_ tab daily (requires **Vidar**)
@@ -34,6 +32,13 @@ __Primary Game Loop__
 - Grind **Borg Tactical Probe** hostiles to farm **Inert Nanoprobes** (very rare **Assimilated Ferengi Trader** hostiles drop **Latinum Antiques**)
     - **Vidar** for level 33- probes
     - **Vidar Talios** for level 36+ probes
+    - Optimal Crew: `SNW Pike`, `SNW Uhura`, `SNW La'an`
+    - Alternative crews depend on target probe level
+        - `1 of 11`, `Beverly`, `5 of 11`
+        - `7 of 11`, `5 of 11`, `9 of 11`
+        - `5 of 11`, `Chen`, `T'laan`
+        - `Pike`, `Moreau`, `Chen`
+        - `Pike`, `Moreau`, `T'laan`
 - Spend **Inert Nanoprobes** in the **Borg Refinery** to pull:
     - **Active Nanoprobes** (daily) - Promote borg officers
     - **Charged Nanoprobes** (daily)
@@ -53,11 +58,12 @@ __Primary Game Loop__
     - Forin - G3 Ore
     - Perek - G3 Crystal
 
+  ![Borg Probe Grinding Crew](res/borg-probe-crew.jpg)
   ![Borg Refinery 1](res/borg-refinery-1.jpg)
   ![Borg Refinery 2](res/borg-refinery-2.jpg)
   ![Borg Refinery 3](res/borg-refinery-3.jpg)
   ![Borg Refinery 4](res/borg-refinery-4.jpg)
-
+  ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
 
 __Borg Solo Armadas__
 - **Borg Solo Armadas** require sending 3 of your own ships to attack a Borg Sphere armada.
@@ -79,7 +85,7 @@ __Borg Solo Armadas__
     - Orin-Theta-12
     - Orin-Sigma-9
 - Defeat Uncommon/Rare/Epic **Borg Solo Armadas** to earn Uncommon/Rare/Epic **Borg Solo Armada Credits** and **Expansion Cube Armada Directives**
-- Spend **Borg Solo Armada Credits** in the **Borg Refinery** to pull 3-day armada chests containing unique rewards:
+- Spend **Borg Solo Armada Credits** in the **Borg Refinery** to pull 3-day Uncommon/Rare/Epic armada chests containing unique rewards:
     - Rare/Epic **Borg Solo Armada Directives**
     - **`+X%` Vidar Loot** Exocomps
     - Borg Officers - ???
