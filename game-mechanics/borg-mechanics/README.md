@@ -54,9 +54,9 @@ __Primary Game Loop__
     - **Lucrative Transwarp Cells**
     - Unc/Rare/Epic **Latinum Transwarp Cells** (no longer useful)
 - Spend **Lucrative G3 Transwarp Cells** to visit large-node, high-speed G3 material mining systems:
-    - Mira - G3 Gas
-    - Forin - G3 Ore
-    - Perek - G3 Crystal
+    - **Mira System** - G3 Gas
+    - **Forin System** - G3 Ore
+    - **Perek System** - G3 Crystal
 
   ![Borg Probe Grinding Crew](res/borg-probe-crew.jpg)
   ![Borg Refinery 1](res/borg-refinery-1.jpg)
@@ -66,14 +66,14 @@ __Primary Game Loop__
   ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
 
 __Borg Solo Armadas__
-- **Borg Solo Armadas** require sending 3 of your own ships to attack a Borg Sphere armada.
-    - Armada targets immediately repair all hull damage after an unsuccessful attempt
 - Complete 4 **Translink Disruptor** research nodes in the _Combat_ research tree to boost damage against **Borg Solo Armadas**
     - `+35000%` damage dealt with faction ships and the ISS Jellyfish
     - **Federation Translink Disruptor**
     - **Klingon Translink Disruptor**
     - **Romulan Translink Disruptor**
     - **Jellyfish Translink Disruptor**
+- **Borg Solo Armadas** require sending 3 of your own ships to attack a Borg Sphere armada.
+    - Armada targets immediately repair all hull damage after an unsuccessful attempt
 - Use **Borg Solo Armada Directives** to run **Borg Solo Armadas** in dedicated **Borg Solo Armada** systems (denoted by green clouds on the Galaxy Map):
     - Atraxi
     - Megnomis
@@ -88,46 +88,69 @@ __Borg Solo Armadas__
 - Spend **Borg Solo Armada Credits** in the **Borg Refinery** to pull 3-day Uncommon/Rare/Epic armada chests containing unique rewards:
     - Rare/Epic **Borg Solo Armada Directives**
     - **`+X%` Vidar Loot** Exocomps
-    - Borg Officers - ???
+    - Borg Officers - `8 of 11`, `9 of 11`, `1 of 11`, `2 of 11`, ???
     - **Fleet Commander** materials
 
   ![Translink Disruptor Research](res/research-translink-disruptors.jpg)    
   ![Borg Solo Armada System](res/armada-borg-solo-system.jpg)
-  ![Borg Solo Armadas](res/armada-borg-solo-rare-rewards.jpg) 
+  ![Borg Solo Armada Rewards](res/armada-borg-solo-rare-rewards.jpg) 
   ![Uncommon Borg Solo Armada Chest](res/armada-chest-unc.jpg)
   ![Rare Borg Solo Armada Chest](res/armada-chest-rare.jpg)
   ![Epic Borg Solo Armada Chest](res/armada-chest-epic.jpg)
 
 __Expansion Cube Armadas__
-- Located in systems branching off of **Borg Solo Armada** systems
-- Requires **Vidar Talios**
-- Requires **Foreknowledge** buff for all **Vidar Talios's**
-    - Aquire by defeating any **Borg Solo Armada** (your **Vidar Talios** does _not_ have to participate)
-    - **Foreknowledge** is automatically applied to your **Vidar Talios** 
-    - `1` hour duration
-- Requires coordinated crews
-- - Defeat **Expansion Cube Armadas** to earn **Vinculum Fragments**
+- Use **Expansion Cube Directives** to start **Expansion Cube Armadas** in systems branching off from **Borg Solo Armada** systems:
+    - Toz Raghli
+    - Lymari
+    - Lomosi
+    - Kej Bal
+    - Eabha
+- Defeat **Expansion Cube Armadas** to earn **Vinculum Fragments**
 - Spend **Vinculum Fragments** in the **Borg Refinery** to pull 3-day **Expansion Cube Exchange** armada chests containing:
-    - Charged Nanoprobes and Active Nanoprobes
+    - **Active Nanoprobes**
+    - **Charged Nanoprobes** 
     - Borg Officer Shards - `Dezoc`, `Borg Queen`
-    - Unc/Rare/Epic **Borg Solo Armada Directives**
+    - Uncommon/Rare/Epic **Borg Solo Armada Directives**
     - **`+100%` Vidar Talios Loot** Exocomps
+- Requires all participants to use a **Vidar Talios** with the **Foreknowledge** buff for success:
+    - Defeating any **Borg Solo Armada** to gain the **Foreknowledge** buff 
+    - **Foreknowledge** buff is automatically applied to your **Vidar Talios** 
+    - `1` Hour duration
+- Requires coordinated crews:
+    - TBD - Perhaps similar to **Megacube Armada** crews
 
   ![Foreknowledge Buff](res/foreknowledge.jpg)
+  ![Expansion Cube Armada System](res/armada-expansion-cube-system.jpg)
+  ![Expansion Cube Armada Rewards](res/armada-expansion-cube-rewards.jpg) 
   ![Expansion Cube Armada Chest](res/armada-chest-expansion-cube.jpg)
 
 __Regular Borg Armadas__
-- Requires Vidars or Talios
-- Borg directive sourcing does not exist
+- Only useful when required for events
+    - Rewards small amount of **Active Nanoprobes**
+- Spend **Borg Armada Directives** to start Uncommon/Rare/Epic **Regular Borg Armadas** in systems surrounding the **Protari System**
+- All participants should use a **Vidar** or **Vidar Talios**
+- At least one participant should crew using `9 of 11` with max synergy for anti-critical effect:
+    - `9 of 11`, `8 of 11`, `7 of 11`
+
+  ![Regular Borg Armada Systems](res/armada-borg-systems)
+  ![Megacube Weakest Ship Crew](res/armada-megacube-weakest-ship-crew.jpg)
 
 __Megacube Armadas__
-- Megacube directive sourcing does not exist
-- Types:
-    - Tractor Beam = Explorer
-    - Photon Cannon = Interceptor
-    - Disruptor = Battleship (easiest)
-- Requires Vidars or Talios
-- Requires coordinated crews:
-    - Weakest Ship (Anti-Critical) =  9, 7, 5 (or any 9 + max synergy)
-    - Strongest Ship (Hull Breach) = 5, 6, Lorca
-    - Other Ships (Critical) = 5, 6, Khan 
+- Only useful when required for events
+    - Rewards small amount of **Active Nanoprobes**
+- Spend **Borg Megacube Directives** to start **Megacube Armadas** in **Tisiphone**, **Megaera**, and **Alecto** systems
+    - 3 Different Types corresponding with the battle triangle:
+        - **Megacube Tractor Beam** = Explorer
+        - **Megacube Photon Cannon** = Interceptor
+        - **Megacube Disruptor** = Battleship
+    - **Megacube Disruptors** are the optimal target 
+- Requires all participants to use a **Vidar** or **Vidar Talios** for success
+- Requires coordinated crews for success:
+    - Weakest Ship (Anti-Critical) -  `9 of 11` with max synergy
+    - Strongest Ship (Hull Breach) - `5 of 11`, `6 of 11`, `Lorca`
+    - Other Ships (Critical) - `5 of 11`, `6 of 11`, `Khan`
+
+  ![Megacube Armada Systems](res/armada-megacube-systems)
+  ![Megacube Weakest Ship Crew](res/armada-megacube-weakest-ship-crew.jpg)
+  ![Megacube Strongest Ship Crew](res/armada-megacube-strongest-ship-crew.jpg)
+  ![Megacube Other Ships Crew](res/armada-megacube-other-ship-crew.jpg)
