@@ -31,7 +31,7 @@ Daily grind:
     - Unoma (31-33)
     - Idola (36-44)
     - Retha (46-58)
-- Grind **Borg Tacticle Probe** hostiles to farm **Inert Nanoprobes** (very rare **Assimilated Ferengi Trader** hostiles drop **Latinum Antiques**)
+- Grind **Borg Tactical Probe** hostiles to farm **Inert Nanoprobes** (very rare **Assimilated Ferengi Trader** hostiles drop **Latinum Antiques**)
     - **Vidar** for level 33- probes
     - **Vidar Talios** for level 36+ probes
 - Spend **Inert Nanoprobes** in the **Borg Refinery** to pull:
@@ -56,6 +56,12 @@ Daily grind:
 __Borg Solo Armadas__
 - **Borg Solo Armadas** require sending 3 of your own ships to attack a Borg Sphere armada.
     - Armada targets immediately repair all hull damage after an unsuccessful attempt
+- Complete 4 **Translink Disruptor** research nodes in the _Combat_ research tree to boost damage against **Borg Solo Armadas**
+    - `+35000%` damage dealt with faction ships and the ISS Jellyfish
+    - **Federation Translink Disruptor**
+    - **Klingon Translink Disruptor**
+    - **Romulan Translink Disruptor**
+    - **Jellyfish Translink Disruptor**
 - Use **Borg Solo Armada Directives** to run **Borg Solo Armadas** in dedicated **Borg Solo Armada** systems (denoted by green clouds on the Galaxy Map):
     - Atraxi
     - Megnomis
@@ -72,6 +78,8 @@ __Borg Solo Armadas__
     - **`+X%` Vidar Loot** Exocomps
     - Borg Officers - ???
     - **Fleet Commander** materials
+
+  ![Translink Disruptor Research](res/research-translink-disruptors.jpg)    
 
 __Expansion Cube Armadas__
 - Located in systems branching off of **Borg Solo Armada** systems
