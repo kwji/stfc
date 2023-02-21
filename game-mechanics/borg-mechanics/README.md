@@ -58,11 +58,10 @@ __Primary Game Loop__
     - **Forin System** - G3 Ore
     - **Perek System** - G3 Crystal
 
+  ![Low Borg Probe Systems](res/borg-probe-systems-1.jpg)
+  ![High Borg Probe Systems](res/borg-probe-systems-2.jpg)
   ![Borg Probe Grinding Crew](res/borg-probe-crew.jpg)
-  ![Borg Refinery 1](res/borg-refinery-1.jpg)
   ![Borg Refinery 2](res/borg-refinery-2.jpg)
-  ![Borg Refinery 3](res/borg-refinery-3.jpg)
-  ![Borg Refinery 4](res/borg-refinery-4.jpg)
   ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
 
 __Borg Solo Armadas__
@@ -88,15 +87,15 @@ __Borg Solo Armadas__
 - Spend **Borg Solo Armada Credits** in the **Borg Refinery** to pull 3-day Uncommon/Rare/Epic armada chests containing unique rewards:
     - Rare/Epic **Borg Solo Armada Directives**
     - **`+X%` Vidar Loot** Exocomps
-    - Borg Officers - `8 of 11`, `9 of 11`, `1 of 11`, `2 of 11`, ???
+    - Borg Officers - All `n of 11` officers, `Ghalenar`, `Hugh`
     - **Fleet Commander** materials
 
   ![Translink Disruptor Research](res/research-translink-disruptors.jpg)    
-  ![Borg Solo Armada System](res/armada-borg-solo-system.jpg)
-  ![Borg Solo Armada Rewards](res/armada-borg-solo-rare-rewards.jpg) 
-  ![Uncommon Borg Solo Armada Chest](res/armada-chest-unc.jpg)
-  ![Rare Borg Solo Armada Chest](res/armada-chest-rare.jpg)
-  ![Epic Borg Solo Armada Chest](res/armada-chest-epic.jpg)
+  ![Borg Solo Armada System](res/armada-borg-solo-system.png)
+  ![Borg Solo Armada Rewards](res/armada-borg-solo-rare-rewards.png) 
+  ![Uncommon Borg Solo Armada Chest](res/armada-chest-unc.png)
+  ![Rare Borg Solo Armada Chest](res/armada-chest-rare.png)
+  ![Epic Borg Solo Armada Chest](res/armada-chest-epic.png)
 
 __Expansion Cube Armadas__
 - Use **Expansion Cube Directives** to start **Expansion Cube Armadas** in systems branching off from **Borg Solo Armada** systems:
@@ -122,7 +121,7 @@ __Expansion Cube Armadas__
   ![Foreknowledge Buff](res/foreknowledge.jpg)
   ![Expansion Cube Armada System](res/armada-expansion-cube-system.jpg)
   ![Expansion Cube Armada Rewards](res/armada-expansion-cube-rewards.jpg) 
-  ![Expansion Cube Armada Chest](res/armada-chest-expansion-cube.jpg)
+  ![Expansion Cube Armada Chest](res/armada-chest-expansion-cube.png)
 
 __Regular Borg Armadas__
 - Only useful when required for events
