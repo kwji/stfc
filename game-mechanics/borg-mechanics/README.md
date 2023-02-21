@@ -1,28 +1,28 @@
 __Overview__
 
-**Vidar** ship unlocks the Borg game loop and **Borg Refinery**:
-- Requires _Shipyard_ level 25
-- Excels against Borg targets, large cargo hold, fast (`120` impulse)
+- **Vidar** ship unlocks the Borg game loop and **Borg Refinery**:
+    - Requires _Shipyard_ level 25
+    - `+35000%` damage against Borg
+    - Fast `120` impulse speed
+    - Large cargo hold
+- **Borg Refinery** provides various faction, officer, travel token, and **Fleet Commander** materials:
+    - Refinery bundles scale-up with the tier of your **Vidar** or **Vidar Talios** once built
+    - Primary sourcing for **Fleet Commander** materials
+- **Vidar Talios** ship:
+    - Requires _Shipyard_ level 35
+    - Requires Tier 9 **Vidar**
+    - Blueprints obtained for free by completing the two free mission chains from the _Assimilated_ arc in the Holodeck (requires Tier 9 **Vidar**)
+    - Enhances the **Borg Refinery**
+- Borg Armadas:
+    - **Regular Borg Armadas** (only for events)
+    - **Megacube Armadas** (only for events)
+    - **Borg Solo Armadas**
+    - **Expansion Cube Armadas**
 
-**Borg Refinery** provides various faction, officer, travel token, and **Fleet Commander** materials:
-- Refinery bundles scale-up with the tier of your **Vidar** or **Vidar Talios** once built
-- Primary sourcing for **Fleet Commander** materials
-
-**Vidar Talios** ship:
-- Requires _Shipyard_ level 35
-- Requires Tier 9 **Vidar**
-- Blueprints obtained for free by completing the two free mission chains from the _Assimilated_ arc in the Holodeck (requires Tier 9 **Vidar**)
-- Enhances the **Borg Refinery**
-
-Borg Armadas:
-- **Regular Borg Armadas** (only for events)
-- **Megacube Armadas** (only for events)
-- **Borg Solo Armadas**
-- **Expansion Cube Armadas**
+  ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
 
 __Primary Game Loop__
 
-Daily grind:
 - Collect `2` free **Transwarp Cells** from the _Gifts_ tab daily (requires **Vidar**)
 - Use **Transwarp Cells** to enter **Borg Tactical Probe** systems surrounding:
     - Alta (25)
@@ -53,6 +53,12 @@ Daily grind:
     - Forin - G3 Ore
     - Perek - G3 Crystal
 
+  ![Borg Refinery 1](res/borg-refinery-1.jpg)
+  ![Borg Refinery 2](res/borg-refinery-2.jpg)
+  ![Borg Refinery 3](res/borg-refinery-3.jpg)
+  ![Borg Refinery 4](res/borg-refinery-4.jpg)
+
+
 __Borg Solo Armadas__
 - **Borg Solo Armadas** require sending 3 of your own ships to attack a Borg Sphere armada.
     - Armada targets immediately repair all hull damage after an unsuccessful attempt
@@ -73,22 +79,36 @@ __Borg Solo Armadas__
     - Orin-Theta-12
     - Orin-Sigma-9
 - Defeat Uncommon/Rare/Epic **Borg Solo Armadas** to earn Uncommon/Rare/Epic **Borg Solo Armada Credits** and **Expansion Cube Armada Directives**
-- Spend **Borg Solo Armada Credits** in the **Borg Refinery** to pull armada chests giving unique rewards:
+- Spend **Borg Solo Armada Credits** in the **Borg Refinery** to pull 3-day armada chests containing unique rewards:
     - Rare/Epic **Borg Solo Armada Directives**
     - **`+X%` Vidar Loot** Exocomps
     - Borg Officers - ???
     - **Fleet Commander** materials
 
   ![Translink Disruptor Research](res/research-translink-disruptors.jpg)    
+  ![Borg Solo Armada System](res/armada-borg-solo-system.jpg)
+  ![Borg Solo Armadas](res/armada-borg-solo-rare-rewards.jpg) 
+  ![Uncommon Borg Solo Armada Chest](res/armada-chest-unc.jpg)
+  ![Rare Borg Solo Armada Chest](res/armada-chest-rare.jpg)
+  ![Epic Borg Solo Armada Chest](res/armada-chest-epic.jpg)
 
 __Expansion Cube Armadas__
 - Located in systems branching off of **Borg Solo Armada** systems
 - Requires **Vidar Talios**
-- Requires **Foresight** buff 
+- Requires **Foreknowledge** buff for all **Vidar Talios's**
     - Aquire by defeating any **Borg Solo Armada** (your **Vidar Talios** does _not_ have to participate)
-    - **Foresight** is automatically applied to your **Vidar Talios** 
+    - **Foreknowledge** is automatically applied to your **Vidar Talios** 
     - `1` hour duration
 - Requires coordinated crews
+- - Defeat **Expansion Cube Armadas** to earn **Vinculum Fragments**
+- Spend **Vinculum Fragments** in the **Borg Refinery** to pull 3-day **Expansion Cube Exchange** armada chests containing:
+    - Charged Nanoprobes and Active Nanoprobes
+    - Borg Officer Shards - `Dezoc`, `Borg Queen`
+    - Unc/Rare/Epic **Borg Solo Armada Directives**
+    - **`+100%` Vidar Talios Loot** Exocomps
+
+  ![Foreknowledge Buff](res/foreknowledge.jpg)
+  ![Expansion Cube Armada Chest](res/armada-chest-expansion-cube.jpg)
 
 __Regular Borg Armadas__
 - Requires Vidars or Talios
