@@ -58,8 +58,8 @@ __Primary Game Loop__
     - **Forin System** - G3 Ore
     - **Perek System** - G3 Crystal
 
-  ![Low Borg Probe Systems](res/borg-probe-systems-1.jpg)
-  ![High Borg Probe Systems](res/borg-probe-systems-2.jpg)
+  ![Low Borg Probe Systems](res/borg-probe-systems-low.jpg)
+  ![High Borg Probe Systems](res/borg-probe-systems-high.jpg)
   ![Borg Probe Grinding Crew](res/borg-probe-crew.jpg)
   ![Borg Refinery 2](res/borg-refinery-2.jpg)
   ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
@@ -91,8 +91,8 @@ __Borg Solo Armadas__
     - **Fleet Commander** materials
 
   ![Translink Disruptor Research](res/research-translink-disruptors.jpg)    
-  ![Borg Solo Armada System](res/armada-borg-solo-system.png)
-  ![Borg Solo Armada Rewards](res/armada-borg-solo-rare-rewards.png) 
+  ![Borg Solo Armada System](res/armada-borg-solo-system.jpg)
+  ![Borg Solo Armada Rewards](res/armada-borg-solo-rare-rewards.jpg) 
   ![Uncommon Borg Solo Armada Chest](res/armada-chest-unc.png)
   ![Rare Borg Solo Armada Chest](res/armada-chest-rare.png)
   ![Epic Borg Solo Armada Chest](res/armada-chest-epic.png)
@@ -131,7 +131,7 @@ __Regular Borg Armadas__
 - At least one participant should crew using `9 of 11` with max synergy for anti-critical effect:
     - `9 of 11`, `8 of 11`, `7 of 11`
 
-  ![Regular Borg Armada Systems](res/armada-borg-systems)
+  ![Regular Borg Armada Systems](res/armada-borg-systems.jpg)
   ![Megacube Weakest Ship Crew](res/armada-megacube-weakest-ship-crew.jpg)
 
 __Megacube Armadas__
@@ -149,7 +149,7 @@ __Megacube Armadas__
     - Strongest Ship (Hull Breach) - `5 of 11`, `6 of 11`, `Lorca`
     - Other Ships (Critical) - `5 of 11`, `6 of 11`, `Khan`
 
-  ![Megacube Armada Systems](res/armada-megacube-systems)
+  ![Megacube Armada Systems](res/armada-megacube-systems.jpg)
   ![Megacube Weakest Ship Crew](res/armada-megacube-weakest-ship-crew.jpg)
   ![Megacube Strongest Ship Crew](res/armada-megacube-strongest-ship-crew.jpg)
   ![Megacube Other Ships Crew](res/armada-megacube-other-ship-crew.jpg)
