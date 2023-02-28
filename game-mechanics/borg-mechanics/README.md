@@ -99,9 +99,9 @@ __Borg Game Loop__
 
   ![Low Borg Probe Systems](res/borg-probe-systems-low.jpg)
   ![High Borg Probe Systems](res/borg-probe-systems-high.jpg)
-  ![Borg Refinery 2](res/borg-refinery-2.jpg)
   ![Borg Probe Grinding Crew](res/borg-probe-crew.jpg)
-  <!-- ![Borg Refinery 1](res/borg-refinery-1.jpg) -->
+  ![Borg Refinery 2](res/borg-refinery-2.jpg)
+  ![Borg Refinery 1](res/borg-refinery-1.jpg)
 
 
 __Borg Solo Armadas__
