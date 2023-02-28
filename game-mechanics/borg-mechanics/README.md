@@ -1,25 +1,35 @@
 __Overview__
 
-- **Vidar** ship unlocks the Borg game loop and **Borg Refinery**:
+- **Vidar** G3 ship unlocks the Borg game loop and **Borg Refinery**:
     - Requires _Shipyard_ level 25
     - `+35000%` damage against Borg
     - Fast `120` impulse speed
     - Large cargo hold
-- **Borg Refinery** provides various faction, officer, travel token, and **Fleet Commander** materials:
+    - Used to grind level 33- **Borg Tactical Probe** hostiles
+- **Borg Tactical Probe** Systems
+- **Borg Refinery** provides faction reputation, faction credits, officer shards, travel tokens, and **Fleet Commander** materials:
     - Refinery bundles scale-up with the tier of your **Vidar** or **Vidar Talios** once built
     - Primary sourcing for **Fleet Commander** materials
-- **Vidar Talios** ship:
+- **Vidar Talios** G4 ship:
     - Requires _Shipyard_ level 35
     - Requires Tier 9 **Vidar**
     - Blueprints obtained for free by completing the two free mission chains from the _Assimilated_ arc in the Holodeck (requires Tier 9 **Vidar**)
     - Enhances the **Borg Refinery**
+    - "A stronger Vidar" (increased damage against borg, faster, larger cargo hold)
+    - Used to grind level 36+ **Borg Tactical Probe** hostiles and **Expansion Cube Armadas** 
 - Borg Armadas:
-    - **Regular Borg Armadas** (only for events)
-    - **Megacube Armadas** (only for events)
-    - **Borg Solo Armadas**
-    - **Expansion Cube Armadas**
+    - **Regular Borg Armadas** - only for events
+    - **Megacube Armadas** - only for events
+    - **Borg Solo Armadas** - **Borg Refinery** bundles
+    - **Expansion Cube Armadas** - **Borg Refinery** bundles
 
-__Primary Game Loop__
+  <!-- ![Borg Refinery 1](res/borg-refinery-1.jpg)
+  ![Borg Refinery 2](res/borg-refinery-2.jpg)
+  ![Borg Refinery 3](res/borg-refinery-3.jpg)
+  ![Borg Refinery 4](res/borg-refinery-4.jpg) -->
+  ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
+
+__Borg Game Loop__
 
 - Collect `2` free **Transwarp Cells** from the _Gifts_ tab daily (requires **Vidar**)
 - Use **Transwarp Cells** to enter **Borg Tactical Probe** systems surrounding:
@@ -33,7 +43,7 @@ __Primary Game Loop__
     - **Vidar** for level 33- probes
     - **Vidar Talios** for level 36+ probes
     - Optimal Crew: `SNW Pike`, `SNW Uhura`, `SNW La'an`
-    - Alternative crews depend on target probe level
+    - Alternative Crews:
         - `1 of 11`, `Beverly`, `5 of 11`
         - `7 of 11`, `5 of 11`, `9 of 11`
         - `5 of 11`, `Chen`, `T'laan`
@@ -42,11 +52,40 @@ __Primary Game Loop__
 - Spend **Inert Nanoprobes** in the **Borg Refinery** to pull:
     - **Active Nanoprobes** (daily) - Promote borg officers
     - **Charged Nanoprobes** (daily)
-- Spend **Charged Nanoprobes** to upgrade the **Vidar**/**Vidar Talios** ship components
-- Spend **Charged Nanoprobes** in the **Borg Refinery** to pull other bundles:
+- Spend **Charged Nanoprobes** to upgrade **Vidar** / **Vidar Talios** ship components and in the **Borg Refinery** to pull other bundles:
     - Fed/Kln/Rom/Ind Faction Credits (daily)
     - Fed/Kln/Rom Faction Reputation (daily)
-    - Uncommon **Borg Solo Armada** Directives (daily) - Start Uncommon **Borg Solo Armadas**
+    - Uncommon **Borg Solo Armada Directives** (daily) - Start Uncommon **Borg Solo Armadas**
+- Spend Uncommon/Rare/Epic **Borg Solo Armada Directives** to start Uncommon/Rare/Epic **Borg Solo Armadas** in dedicated **Borg Solo Armada** systems :
+    - Atraxi
+    - Megnomis
+    - Petoran
+    - Efros
+    - Torovin
+    - Thora-Beta-6
+    - Thora-Omega-2
+    - Orin-Theta-12
+    - Orin-Sigma-9
+- Defeat Uncommon/Rare/Epic **Borg Solo Armadas** to earn Uncommon/Rare/Epic **Borg Solo Armada Credits** and **Expansion Cube Armada Directives**
+- Spend Uncommon/Rare/Epic **Borg Solo Armada Credits** in the **Borg Refinery** to pull Uncommon/Rare/Epic **Solo Exchange** armada chests (3-day) containing:
+    - Rare **Borg Solo Armada Directives** (Uncommon **Solo Exchange** chests)
+    - Epic **Borg Solo Armada Directives** (Rare **Solo Exchange** chests)
+    - **`+X%` Vidar Loot** Exocomps
+    - Borg Officer Shards - All `n of 11` officers, `Ghalenar`, `Hugh`
+    - **Fleet Commander** materials
+- Spend **Expansion Cube Directives** to start **Expansion Cube Armadas** in systems branching off from **Borg Solo Armada** systems:
+    - Toz Raghli
+    - Lymari
+    - Lomosi
+    - Kej Bal
+    - Eabha
+- Defeat **Expansion Cube Armadas** to earn **Vinculum Fragments**
+- Spend **Vinculum Fragments** in the **Borg Refinery** to pull **Expansion Cube Exchange** armada chests (3-day) containing:
+    - Borg Officer Shards - `Dezoc`, `Borg Queen`
+    - **`+X%` Vidar Talios Loot** Exocomps
+    - Uncommon/Rare/Epic **Borg Solo Armada Directives**
+    - **Active Nanoprobes**
+    - **Charged Nanoprobes** 
 - Spend **Latinum Antiques** in the **Borg Refinery** to receive: 
     - Resource Tokens
     - Ship XP
@@ -62,64 +101,42 @@ __Primary Game Loop__
   ![High Borg Probe Systems](res/borg-probe-systems-high.jpg)
   ![Borg Probe Grinding Crew](res/borg-probe-crew.jpg)
   ![Borg Refinery 2](res/borg-refinery-2.jpg)
-  ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
+  ![Borg Refinery 1](res/borg-refinery-1.jpg)
+
 
 __Borg Solo Armadas__
-- Complete 4 **Translink Disruptor** research nodes in the _Combat_ research tree to boost damage against **Borg Solo Armadas**
+- **Borg Solo Armadas** require sending 3 of your own ships to attack a Borg Sphere armada.
+    - Armada targets immediately repair all hull damage after an unsuccessful attempt
+- Complete 4 **Translink Disruptor** research nodes in the _Combat_ research tree to dramatically boost damage against **Borg Solo Armadas**
     - `+35000%` damage dealt with faction ships and the ISS Jellyfish
     - **Federation Translink Disruptor**
     - **Klingon Translink Disruptor**
     - **Romulan Translink Disruptor**
     - **Jellyfish Translink Disruptor**
-- **Borg Solo Armadas** require sending 3 of your own ships to attack a Borg Sphere armada.
-    - Armada targets immediately repair all hull damage after an unsuccessful attempt
-- Use **Borg Solo Armada Directives** to run **Borg Solo Armadas** in dedicated **Borg Solo Armada** systems (denoted by green clouds on the Galaxy Map):
-    - Atraxi
-    - Megnomis
-    - Petoran
-    - Efros
-    - Torovin
-    - Thora-Beta-6
-    - Thora-Omega-2
-    - Orin-Theta-12
-    - Orin-Sigma-9
-- Defeat Uncommon/Rare/Epic **Borg Solo Armadas** to earn Uncommon/Rare/Epic **Borg Solo Armada Credits** and **Expansion Cube Armada Directives**
-- Spend **Borg Solo Armada Credits** in the **Borg Refinery** to pull 3-day Uncommon/Rare/Epic armada chests containing unique rewards:
-    - Rare/Epic **Borg Solo Armada Directives**
-    - **`+X%` Vidar Loot** Exocomps
-    - Borg Officers - All `n of 11` officers, `Ghalenar`, `Hugh`
-    - **Fleet Commander** materials
+- **Borg Solo Armadas** are typically short duration, have exceedingly high defense stats, managable piercing stats, and do not deal significant critical damage, so player ship crews should focus on maximizing their own damage mitigation and critical hits. Examples:
+    - `5 of 11`, `7 of 11`, `Khan`
+    - `Sisko`, `O'Brian`, `Bashir` 
+    - `Picard`, `Beverly`, `Lorca`
 
-  ![Translink Disruptor Research](res/research-translink-disruptors.jpg)    
-  ![Borg Solo Armada System](res/armada-borg-solo-system.jpg)
+  ![Borg Solo Armada System](res/armada-borg-solo-system.jpg)  
   ![Borg Solo Armada Rewards](res/armada-borg-solo-rare-rewards.jpg) 
-  ![Uncommon Borg Solo Armada Chest](res/armada-chest-unc.png)
-  ![Rare Borg Solo Armada Chest](res/armada-chest-rare.png)
-  ![Epic Borg Solo Armada Chest](res/armada-chest-epic.png)
+  ![Translink Disruptor Research](res/research-translink-disruptors.jpg)  
+  ![Armada Crews](res/armada-crews.png)
+  <!-- ![Uncommon Armada Chest](res/armada-chest-unc.png)
+  ![Uncommon Armada Chest](res/armada-chest-rare.png)
+  ![Uncommon Armada Chest](res/armada-chest-epic.png) -->
+
 
 __Expansion Cube Armadas__
-- Use **Expansion Cube Directives** to start **Expansion Cube Armadas** in systems branching off from **Borg Solo Armada** systems:
-    - Toz Raghli
-    - Lymari
-    - Lomosi
-    - Kej Bal
-    - Eabha
-- Defeat **Expansion Cube Armadas** to earn **Vinculum Fragments**
-- Spend **Vinculum Fragments** in the **Borg Refinery** to pull 3-day **Expansion Cube Exchange** armada chests containing:
-    - **Active Nanoprobes**
-    - **Charged Nanoprobes** 
-    - Borg Officer Shards - `Dezoc`, `Borg Queen`
-    - Uncommon/Rare/Epic **Borg Solo Armada Directives**
-    - **`+100%` Vidar Talios Loot** Exocomps
 - Requires all participants to use a **Vidar Talios** with the **Foreknowledge** buff for success:
-    - Defeating any **Borg Solo Armada** to gain the **Foreknowledge** buff 
+    - Defeat any **Borg Solo Armada** to gain the **Foreknowledge** buff 
     - **Foreknowledge** buff is automatically applied to your **Vidar Talios** 
     - `1` Hour duration
 - Requires coordinated crews:
     - TBD - Perhaps similar to **Megacube Armada** crews
 
-  ![Foreknowledge Buff](res/foreknowledge.jpg)
   ![Expansion Cube Armada System](res/armada-expansion-cube-system.jpg)
+  ![Foreknowledge Buff](res/foreknowledge.jpg)
   ![Expansion Cube Armada Rewards](res/armada-expansion-cube-rewards.jpg) 
   ![Expansion Cube Armada Chest](res/armada-chest-expansion-cube.png)
 
@@ -153,3 +170,9 @@ __Megacube Armadas__
   ![Megacube Weakest Ship Crew](res/armada-megacube-weakest-ship-crew.jpg)
   ![Megacube Strongest Ship Crew](res/armada-megacube-strongest-ship-crew.jpg)
   ![Megacube Other Ships Crew](res/armada-megacube-other-ship-crew.jpg)
+
+__References__
+* https://www.startrekfleetcommand.com/2023/01/10/update-m50-patch-notes/
+* https://www.startrekfleetcommand.com/2023/02/07/update-51-patch-notes/
+* https://www.youtube.com/watch?v=Gi5ydzUlLXU
+* https://www.youtube.com/watch?v=oxSNplttyNY
