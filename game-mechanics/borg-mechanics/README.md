@@ -15,7 +15,7 @@ __Overview__
     - Requires Tier 9 **Vidar**
     - Blueprints obtained for free by completing the two free mission chains from the _Assimilated_ arc in the Holodeck (requires Tier 9 **Vidar**)
     - Enhances the **Borg Refinery**
-    - "A stronger Vidar" (increased damage against borg, faster, larger cargo hold)
+    - Exceededs a max **Vidar** in performance starting at Tier 2 level 5.
     - Used to grind level 36+ **Borg Tactical Probe** hostiles and **Expansion Cube Armadas** 
 - Borg Armadas:
     - **Regular Borg Armadas** - only for events
