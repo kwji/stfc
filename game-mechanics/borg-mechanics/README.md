@@ -1,5 +1,4 @@
 __Overview__
-
 - **Vidar** G3 ship unlocks the Borg game loop and **Borg Refinery**:
     - Requires _Shipyard_ level 25
     - `+35000%` damage against Borg
@@ -30,7 +29,6 @@ __Overview__
   ![Borg Refinery Scaling Chart](res/borg-refinery-scaling-chart.png)
 
 __Borg Game Loop__
-
 - Collect `2` free **Transwarp Cells** from the _Gifts_ tab daily (requires **Vidar**)
 - Use **Transwarp Cells** to enter **Borg Tactical Probe** systems surrounding:
     - Alta (25)
